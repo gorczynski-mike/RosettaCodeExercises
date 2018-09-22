@@ -2,14 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="110e63f8-5023-46c7-bebd-ee3fd765390e" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/gorczynskimike/arrayconcatenation/ArrayConcatenationSolution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/gorczynskimike/arrayconcatenation/ArrayConcatenationTestSuite.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/gorczynskimike/identitymatrix/IdentityMatrixSolution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/gorczynskimike/identitymatrix/IdentityMatrixTestSuite.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RosettaCodeExercises.iml" beforeDir="false" afterPath="$PROJECT_DIR$/RosettaCodeExercises.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/gorczynskimike/arrays/ArraysSolution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gorczynskimike/arrays/ArraysSolution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/gorczynskimike/arrays/ArraysTestSuite.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/gorczynskimike/arrays/ArraysTestSuite.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -22,15 +17,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/gorczynskimike/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="42">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="ArrayLengthSolution.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/gorczynskimike/arraylength/ArrayLengthSolution.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -61,11 +47,32 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ArraysTestSuite.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ArraysTestSuite.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/gorczynskimike/arrays/ArraysTestSuite.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="236">
               <caret line="39" column="108" selection-start-line="39" selection-start-column="108" selection-end-line="39" selection-end-column="108" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="IdentityMatrixSolution.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/gorczynskimike/identitymatrix/IdentityMatrixSolution.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="378">
+              <caret line="18" column="30" selection-start-line="18" selection-start-column="30" selection-end-line="18" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="IdentityMatrixTestSuite.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/gorczynskimike/identitymatrix/IdentityMatrixTestSuite.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="231">
+              <caret line="20" column="48" selection-start-line="20" selection-start-column="48" selection-end-line="20" selection-end-column="48" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -112,18 +119,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-            <state split_layout="SPLIT">
-              <first_editor />
-              <second_editor>
-                <markdownNavigatorState />
-              </second_editor>
-            </state>
-          </provider>
-        </entry>
-      </file>
     </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
@@ -149,6 +144,8 @@
         <option value="$PROJECT_DIR$/src/main/java/com/gorczynskimike/arrayconcatenation/ArrayConcatenationSolution.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/gorczynskimike/arrays/ArraysSolution.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/gorczynskimike/arrays/ArraysTestSuite.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/gorczynskimike/identitymatrix/IdentityMatrixSolution.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/gorczynskimike/identitymatrix/IdentityMatrixTestSuite.java" />
       </list>
     </option>
   </component>
@@ -213,16 +210,7 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="gorczynskimike" type="462c0819:PsiDirectoryNode" />
-              <item name="arrayconcatenation" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="RosettaCodeExercises" type="b2602c69:ProjectViewProjectNode" />
-              <item name="RosettaCodeExercises" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="gorczynskimike" type="462c0819:PsiDirectoryNode" />
-              <item name="arrays" type="462c0819:PsiDirectoryNode" />
+              <item name="identitymatrix" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="RosettaCodeExercises" type="b2602c69:ProjectViewProjectNode" />
@@ -252,16 +240,7 @@
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="gorczynskimike" type="462c0819:PsiDirectoryNode" />
-              <item name="arrayconcatenation" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="RosettaCodeExercises" type="b2602c69:ProjectViewProjectNode" />
-              <item name="RosettaCodeExercises" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="gorczynskimike" type="462c0819:PsiDirectoryNode" />
-              <item name="arrays" type="462c0819:PsiDirectoryNode" />
+              <item name="identitymatrix" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -288,53 +267,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.com.gorczynskimike in RosettaCodeExercises">
-    <configuration name="ArrayConcatenationTestSuite.testConcatenationOfTwoNotEmptyArrays" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="RosettaCodeExercises" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.gorczynskimike.arrayconcatenation.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="com.gorczynskimike.arrayconcatenation" />
-      <option name="MAIN_CLASS_NAME" value="com.gorczynskimike.arrayconcatenation.ArrayConcatenationTestSuite" />
-      <option name="METHOD_NAME" value="testConcatenationOfTwoNotEmptyArrays" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
-    </configuration>
-    <configuration name="ArrayConcatenationTestSuite.testOneInputNullOtherInputNotNull" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="RosettaCodeExercises" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.gorczynskimike.arrayconcatenation.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="com.gorczynskimike.arrayconcatenation" />
-      <option name="MAIN_CLASS_NAME" value="com.gorczynskimike.arrayconcatenation.ArrayConcatenationTestSuite" />
-      <option name="METHOD_NAME" value="testOneInputNullOtherInputNotNull" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
-    </configuration>
+  <component name="RunManager" selected="JUnit.IdentityMatrixTestSuite">
     <configuration name="ArraysTestSuite" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="RosettaCodeExercises" />
       <extension name="coverage">
@@ -358,19 +291,65 @@
       </option>
       <patterns />
     </configuration>
-    <configuration name="ArraysTestSuite.testArrayIsCreatedAndCorrectElementReturned" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="IdentityMatrixTestSuite" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="RosettaCodeExercises" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.gorczynskimike.arrays.*" />
+          <option name="PATTERN" value="com.gorczynskimike.identitymatrix.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="com.gorczynskimike.arrays" />
-      <option name="MAIN_CLASS_NAME" value="com.gorczynskimike.arrays.ArraysTestSuite" />
-      <option name="METHOD_NAME" value="testArrayIsCreatedAndCorrectElementReturned" />
+      <option name="PACKAGE_NAME" value="com.gorczynskimike.identitymatrix" />
+      <option name="MAIN_CLASS_NAME" value="com.gorczynskimike.identitymatrix.IdentityMatrixTestSuite" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="IdentityMatrixTestSuite.testIdentityMatrixThreeSizes" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="RosettaCodeExercises" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.gorczynskimike.identitymatrix.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.gorczynskimike.identitymatrix" />
+      <option name="MAIN_CLASS_NAME" value="com.gorczynskimike.identitymatrix.IdentityMatrixTestSuite" />
+      <option name="METHOD_NAME" value="testIdentityMatrixThreeSizes" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="IdentityMatrixTestSuite.testReturnsNullIfSizeTooSmall" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="RosettaCodeExercises" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.gorczynskimike.identitymatrix.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.gorczynskimike.identitymatrix" />
+      <option name="MAIN_CLASS_NAME" value="com.gorczynskimike.identitymatrix.IdentityMatrixTestSuite" />
+      <option name="METHOD_NAME" value="testReturnsNullIfSizeTooSmall" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" />
       <option name="PARAMETERS" />
@@ -421,18 +400,18 @@
     </configuration>
     <list>
       <item itemvalue="JUnit.ArraysTestSuite" />
-      <item itemvalue="JUnit.ArrayConcatenationTestSuite.testOneInputNullOtherInputNotNull" />
-      <item itemvalue="JUnit.ArrayConcatenationTestSuite.testConcatenationOfTwoNotEmptyArrays" />
-      <item itemvalue="JUnit.ArraysTestSuite.testArrayIsCreatedAndCorrectElementReturned" />
       <item itemvalue="JUnit.com.gorczynskimike in RosettaCodeExercises" />
+      <item itemvalue="JUnit.IdentityMatrixTestSuite.testReturnsNullIfSizeTooSmall" />
+      <item itemvalue="JUnit.IdentityMatrixTestSuite.testIdentityMatrixThreeSizes" />
+      <item itemvalue="JUnit.IdentityMatrixTestSuite" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.IdentityMatrixTestSuite" />
+        <item itemvalue="JUnit.IdentityMatrixTestSuite.testIdentityMatrixThreeSizes" />
+        <item itemvalue="JUnit.IdentityMatrixTestSuite.testReturnsNullIfSizeTooSmall" />
         <item itemvalue="JUnit.com.gorczynskimike in RosettaCodeExercises" />
         <item itemvalue="JUnit.ArraysTestSuite" />
-        <item itemvalue="JUnit.ArraysTestSuite.testArrayIsCreatedAndCorrectElementReturned" />
-        <item itemvalue="JUnit.ArrayConcatenationTestSuite.testConcatenationOfTwoNotEmptyArrays" />
-        <item itemvalue="JUnit.ArrayConcatenationTestSuite.testOneInputNullOtherInputNotNull" />
       </list>
     </recent_temporary>
   </component>
@@ -446,44 +425,44 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1537620608564</updated>
-      <workItem from="1537620610803" duration="6772000" />
+      <workItem from="1537620610803" duration="8013000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="ArraysTestSuite_testNullReturnedWhenIndexOutOfBounds - 2018.09.22 at 16h 04m 52s.xml">
-      <configuration name="ArraysTestSuite.testNullReturnedWhenIndexOutOfBounds" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ArraysTestSuite - 2018.09.22 at 16h 04m 57s.xml">
-      <configuration name="ArraysTestSuite" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ArrayConcatenationTestSuite_testBothInputsAreNull - 2018.09.22 at 17h 32m 49s.xml">
-      <configuration name="ArrayConcatenationTestSuite.testBothInputsAreNull" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ArrayConcatenationTestSuite_testOneInputNullOtherInputNotNull - 2018.09.22 at 17h 34m 46s.xml">
-      <configuration name="ArrayConcatenationTestSuite.testOneInputNullOtherInputNotNull" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ArrayConcatenationTestSuite_testConcatenationOfTwoNotEmptyArrays - 2018.09.22 at 17h 51m 13s.xml">
-      <configuration name="ArrayConcatenationTestSuite.testConcatenationOfTwoNotEmptyArrays" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ArrayConcatenationTestSuite_testConcatenationOfTwoNotEmptyArrays - 2018.09.22 at 17h 51m 56s.xml">
-      <configuration name="ArrayConcatenationTestSuite.testConcatenationOfTwoNotEmptyArrays" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ArrayConcatenationTestSuite_testConcatenationOfTwoNotEmptyArrays - 2018.09.22 at 17h 56m 04s.xml">
-      <configuration name="ArrayConcatenationTestSuite.testConcatenationOfTwoNotEmptyArrays" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ArraysTestSuite_testArrayIsCreatedAndCorrectElementReturned - 2018.09.22 at 17h 58m 01s.xml">
-      <configuration name="ArraysTestSuite.testArrayIsCreatedAndCorrectElementReturned" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="ArrayConcatenationTestSuite_testConcatenationOfTwoNotEmptyArrays - 2018.09.22 at 17h 59m 17s.xml">
       <configuration name="ArrayConcatenationTestSuite.testConcatenationOfTwoNotEmptyArrays" configurationId="JUnit" />
     </history-entry>
     <history-entry file="ArrayConcatenationTestSuite_testConcatenationOfTwoNotEmptyArrays - 2018.09.22 at 18h 04m 56s.xml">
       <configuration name="ArrayConcatenationTestSuite.testConcatenationOfTwoNotEmptyArrays" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="ArraysTestSuite - 2018.09.22 at 18h 08m 46s.xml">
+      <configuration name="ArraysTestSuite" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="com_gorczynskimike_in_RosettaCodeExercises - 2018.09.22 at 18h 08m 53s.xml">
+      <configuration name="com.gorczynskimike in RosettaCodeExercises" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="IdentityMatrixTestSuite_testReturnsNullIfSizeTooSmall - 2018.09.22 at 18h 31m 59s.xml">
+      <configuration name="IdentityMatrixTestSuite.testReturnsNullIfSizeTooSmall" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="IdentityMatrixTestSuite_testIdentityMatrixThreeSizes - 2018.09.22 at 18h 35m 00s.xml">
+      <configuration name="IdentityMatrixTestSuite.testIdentityMatrixThreeSizes" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="IdentityMatrixTestSuite_testIdentityMatrixThreeSizes - 2018.09.22 at 18h 35m 24s.xml">
+      <configuration name="IdentityMatrixTestSuite.testIdentityMatrixThreeSizes" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="IdentityMatrixTestSuite_testIdentityMatrixThreeSizes - 2018.09.22 at 18h 35m 33s.xml">
+      <configuration name="IdentityMatrixTestSuite.testIdentityMatrixThreeSizes" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="IdentityMatrixTestSuite_testIdentityMatrixThreeSizes - 2018.09.22 at 18h 36m 17s.xml">
+      <configuration name="IdentityMatrixTestSuite.testIdentityMatrixThreeSizes" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="IdentityMatrixTestSuite - 2018.09.22 at 18h 36m 21s.xml">
+      <configuration name="IdentityMatrixTestSuite" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6772000" />
+    <option name="totallyTimeSpent" value="8013000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="99" y="-9" width="1830" height="1098" extended-state="6" />
@@ -491,14 +470,14 @@
     <layout>
       <window_info anchor="right" id="Palette" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info active="true" anchor="bottom" id="Messages" visible="true" weight="0.32984293" />
+      <window_info anchor="bottom" id="Messages" weight="0.32984293" />
       <window_info anchor="right" id="Palette&#9;" />
       <window_info id="Image Layers" />
       <window_info anchor="right" id="Capture Analysis" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" />
       <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32984293" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32984293" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Terminal" weight="0.32984293" />
       <window_info id="Capture Tool" />
@@ -607,6 +586,23 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="236">
           <caret line="39" column="108" selection-start-line="39" selection-start-column="108" selection-end-line="39" selection-end-column="108" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/gorczynskimike/identitymatrix/IdentityMatrixSolution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="18" column="30" selection-start-line="18" selection-start-column="30" selection-end-line="18" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/gorczynskimike/identitymatrix/IdentityMatrixTestSuite.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="20" column="48" selection-start-line="20" selection-start-column="48" selection-end-line="20" selection-end-column="48" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
