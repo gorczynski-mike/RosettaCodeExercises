@@ -2,16 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="110e63f8-5023-46c7-bebd-ee3fd765390e" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/gorczynskimike/arraylength/ArrayLengthSolutionTestSuite.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/gorczynskimike/arrays/ArraysSolution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/gorczynskimike/arrays/ArraysTestSuite.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RosettaCodeExercises.iml" beforeDir="false" afterPath="$PROJECT_DIR$/RosettaCodeExercises.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/gorczynskimike/Main.java" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -36,8 +29,8 @@
       <file leaf-file-name="ArrayLengthSolution.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/gorczynskimike/arraylength/ArrayLengthSolution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="84">
-              <caret line="4" column="18" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
+            <state relative-caret-position="231">
+              <caret line="11" selection-start-line="11" selection-end-line="11" />
             </state>
           </provider>
         </entry>
@@ -45,11 +38,41 @@
       <file leaf-file-name="ArrayLengthSolutionTestSuite.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/gorczynskimike/arraylength/ArrayLengthSolutionTestSuite.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="842">
+            <state relative-caret-position="401">
               <caret line="42" column="47" lean-forward="true" selection-start-line="42" selection-start-column="47" selection-end-line="42" selection-end-column="47" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ArraysSolution.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/gorczynskimike/arrays/ArraysSolution.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="126">
+              <caret line="6" column="95" selection-start-line="6" selection-start-column="95" selection-end-line="6" selection-end-column="95" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ArraysTestSuite.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/gorczynskimike/arrays/ArraysTestSuite.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="506">
+              <caret line="43" column="48" selection-start-line="43" selection-start-column="48" selection-end-line="43" selection-end-column="48" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="189">
+              <caret line="9" column="17" lean-forward="true" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -62,15 +85,6 @@
               <second_editor>
                 <markdownNavigatorState />
               </second_editor>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="189">
-              <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -93,9 +107,11 @@
         <option value="$PROJECT_DIR$/src/com/gorczynskimike/Main.java" />
         <option value="$PROJECT_DIR$/src/main/java/gorczynskimike/arraylength/Solution.java" />
         <option value="$PROJECT_DIR$/src/com/gorczynskimike/arraylength/Solution.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/com/gorczynskimike/arraylength/ArrayLengthSolution.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/gorczynskimike/arraylength/ArrayLengthSolutionTestSuite.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/gorczynskimike/arrays/ArraysSolution.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/gorczynskimike/arrays/ArraysTestSuite.java" />
       </list>
     </option>
   </component>
@@ -160,7 +176,7 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="gorczynskimike" type="462c0819:PsiDirectoryNode" />
-              <item name="arraylength" type="462c0819:PsiDirectoryNode" />
+              <item name="arrays" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="RosettaCodeExercises" type="b2602c69:ProjectViewProjectNode" />
@@ -181,7 +197,16 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="arraylength" type="462c0819:PsiDirectoryNode" />
+              <item name="gorczynskimike" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RosettaCodeExercises" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RosettaCodeExercises" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="gorczynskimike" type="462c0819:PsiDirectoryNode" />
+              <item name="arrays" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -208,14 +233,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.ArrayLengthSolutionTestSuite">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="main.java.gorczynskimike.Main" />
-      <module name="RosettaCodeExercises" />
-      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
-    </configuration>
+  <component name="RunManager" selected="JUnit.ArraysTestSuite">
     <configuration name="ArrayLengthSolutionTestSuite" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="RosettaCodeExercises" />
       <extension name="coverage">
@@ -239,19 +257,42 @@
       </option>
       <patterns />
     </configuration>
-    <configuration name="ArrayLengthSolutionTestSuite.testCalculatesCorrectArrayLength" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="ArraysTestSuite" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="RosettaCodeExercises" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.gorczynskimike.arraylength.*" />
+          <option name="PATTERN" value="com.gorczynskimike.arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="com.gorczynskimike.arraylength" />
-      <option name="MAIN_CLASS_NAME" value="com.gorczynskimike.arraylength.ArrayLengthSolutionTestSuite" />
-      <option name="METHOD_NAME" value="testCalculatesCorrectArrayLength" />
+      <option name="PACKAGE_NAME" value="com.gorczynskimike.arrays" />
+      <option name="MAIN_CLASS_NAME" value="com.gorczynskimike.arrays.ArraysTestSuite" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="ArraysTestSuite.testArrayIsCreatedAndCorrectElementReturned" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="RosettaCodeExercises" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.gorczynskimike.arrays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.gorczynskimike.arrays" />
+      <option name="MAIN_CLASS_NAME" value="com.gorczynskimike.arrays.ArraysTestSuite" />
+      <option name="METHOD_NAME" value="testArrayIsCreatedAndCorrectElementReturned" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" />
       <option name="PARAMETERS" />
@@ -262,19 +303,42 @@
       </option>
       <patterns />
     </configuration>
-    <configuration name="ArrayLengthSolutionTestSuite.testReturnsMinusOneOnNullInput" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="ArraysTestSuite.testMethodForVariousInputTypes" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="RosettaCodeExercises" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.gorczynskimike.arraylength.*" />
+          <option name="PATTERN" value="com.gorczynskimike.arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="com.gorczynskimike.arraylength" />
-      <option name="MAIN_CLASS_NAME" value="com.gorczynskimike.arraylength.ArrayLengthSolutionTestSuite" />
-      <option name="METHOD_NAME" value="testReturnsMinusOneOnNullInput" />
+      <option name="PACKAGE_NAME" value="com.gorczynskimike.arrays" />
+      <option name="MAIN_CLASS_NAME" value="com.gorczynskimike.arrays.ArraysTestSuite" />
+      <option name="METHOD_NAME" value="testMethodForVariousInputTypes" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="ArraysTestSuite.testNullReturnedWhenIndexOutOfBounds" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="RosettaCodeExercises" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.gorczynskimike.arrays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.gorczynskimike.arrays" />
+      <option name="MAIN_CLASS_NAME" value="com.gorczynskimike.arrays.ArraysTestSuite" />
+      <option name="METHOD_NAME" value="testNullReturnedWhenIndexOutOfBounds" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" />
       <option name="PARAMETERS" />
@@ -301,16 +365,19 @@
       <method />
     </configuration>
     <list>
-      <item itemvalue="Application.Main" />
-      <item itemvalue="JUnit.ArrayLengthSolutionTestSuite.testReturnsMinusOneOnNullInput" />
-      <item itemvalue="JUnit.ArrayLengthSolutionTestSuite.testCalculatesCorrectArrayLength" />
       <item itemvalue="JUnit.ArrayLengthSolutionTestSuite" />
+      <item itemvalue="JUnit.ArraysTestSuite.testArrayIsCreatedAndCorrectElementReturned" />
+      <item itemvalue="JUnit.ArraysTestSuite.testMethodForVariousInputTypes" />
+      <item itemvalue="JUnit.ArraysTestSuite" />
+      <item itemvalue="JUnit.ArraysTestSuite.testNullReturnedWhenIndexOutOfBounds" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.ArraysTestSuite" />
+        <item itemvalue="JUnit.ArraysTestSuite.testNullReturnedWhenIndexOutOfBounds" />
+        <item itemvalue="JUnit.ArraysTestSuite.testMethodForVariousInputTypes" />
+        <item itemvalue="JUnit.ArraysTestSuite.testArrayIsCreatedAndCorrectElementReturned" />
         <item itemvalue="JUnit.ArrayLengthSolutionTestSuite" />
-        <item itemvalue="JUnit.ArrayLengthSolutionTestSuite.testCalculatesCorrectArrayLength" />
-        <item itemvalue="JUnit.ArrayLengthSolutionTestSuite.testReturnsMinusOneOnNullInput" />
       </list>
     </recent_temporary>
   </component>
@@ -324,7 +391,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1537620608564</updated>
-      <workItem from="1537620610803" duration="1535000" />
+      <workItem from="1537620610803" duration="3582000" />
     </task>
     <servers />
   </component>
@@ -338,9 +405,24 @@
     <history-entry file="ArrayLengthSolutionTestSuite - 2018.09.22 at 15h 15m 07s.xml">
       <configuration name="ArrayLengthSolutionTestSuite" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="ArrayLengthSolutionTestSuite - 2018.09.22 at 15h 16m 03s.xml">
+      <configuration name="ArrayLengthSolutionTestSuite" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ArraysTestSuite_testArrayIsCreatedAndCorrectElementReturned - 2018.09.22 at 15h 57m 37s.xml">
+      <configuration name="ArraysTestSuite.testArrayIsCreatedAndCorrectElementReturned" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ArraysTestSuite_testArrayIsCreatedAndCorrectElementReturned - 2018.09.22 at 15h 57m 49s.xml">
+      <configuration name="ArraysTestSuite.testArrayIsCreatedAndCorrectElementReturned" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ArraysTestSuite_testMethodForVariousInputTypes - 2018.09.22 at 16h 01m 50s.xml">
+      <configuration name="ArraysTestSuite.testMethodForVariousInputTypes" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ArraysTestSuite - 2018.09.22 at 16h 01m 55s.xml">
+      <configuration name="ArraysTestSuite" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1535000" />
+    <option name="totallyTimeSpent" value="3582000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="99" y="-9" width="1830" height="1098" extended-state="6" />
@@ -402,14 +484,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/gorczynskimike/arraylength/ArrayLengthSolution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="4" column="18" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
+        <state relative-caret-position="231">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/gorczynskimike/arraylength/ArrayLengthSolutionTestSuite.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="842">
+        <state relative-caret-position="401">
           <caret line="42" column="47" lean-forward="true" selection-start-line="42" selection-start-column="47" selection-end-line="42" selection-end-column="47" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -420,7 +502,24 @@
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="189">
-          <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+          <caret line="9" column="17" lean-forward="true" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/gorczynskimike/arrays/ArraysSolution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="6" column="95" selection-start-line="6" selection-start-column="95" selection-end-line="6" selection-end-column="95" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/gorczynskimike/arrays/ArraysTestSuite.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="506">
+          <caret line="43" column="48" selection-start-line="43" selection-start-column="48" selection-end-line="43" selection-end-column="48" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
