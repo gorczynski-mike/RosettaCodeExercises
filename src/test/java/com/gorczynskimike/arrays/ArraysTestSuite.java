@@ -11,7 +11,7 @@ public class ArraysTestSuite {
         ArraysSolution arraysSolution = new ArraysSolution();
         //When
         String returnedElement = arraysSolution
-                .createSampleArrayAndRetrieveAnElement(1,"zero", "one", "two", "three");
+                .createSampleArrayAndRetrieveAnElement(1, String.class,"zero", "one", "two", "three");
         //Then
         Assert.assertEquals("one", returnedElement);
     }
@@ -21,9 +21,9 @@ public class ArraysTestSuite {
         //Given
         ArraysSolution arraysSolution = new ArraysSolution();
         //When
-        Integer returnedInt = arraysSolution.createSampleArrayAndRetrieveAnElement(2, 0,1,2,3,4);
-        Character returnedChar = arraysSolution.createSampleArrayAndRetrieveAnElement(1, 'a','b','c');
-        Boolean returnedBool = arraysSolution.createSampleArrayAndRetrieveAnElement(1, false, true);
+        Integer returnedInt = arraysSolution.createSampleArrayAndRetrieveAnElement(2, Integer.class, 0,1,2,3,4);
+        Character returnedChar = arraysSolution.createSampleArrayAndRetrieveAnElement(1, Character.class, 'a','b','c');
+        Boolean returnedBool = arraysSolution.createSampleArrayAndRetrieveAnElement(1, Boolean.class,false, true);
         //Then
         Assert.assertEquals((Integer)2, returnedInt);
         Assert.assertEquals((Character)'b', returnedChar);
@@ -35,9 +35,9 @@ public class ArraysTestSuite {
         //Given
         ArraysSolution arraysSolution = new ArraysSolution();
         //When
-        Integer resultWhenLessThanZeroIndex = arraysSolution.createSampleArrayAndRetrieveAnElement(-1, 0,1,2,3,4);
-        Integer resultWhenIndexTooBig = arraysSolution.createSampleArrayAndRetrieveAnElement(5,0,1,2);
-        Integer resultWhenNoElements = arraysSolution.createSampleArrayAndRetrieveAnElement(3);
+        Integer resultWhenLessThanZeroIndex = arraysSolution.createSampleArrayAndRetrieveAnElement(-1, Integer.class, 0,1,2,3,4);
+        Integer resultWhenIndexTooBig = arraysSolution.createSampleArrayAndRetrieveAnElement(5, Integer.class,0,1,2);
+        Integer resultWhenNoElements = arraysSolution.createSampleArrayAndRetrieveAnElement(3, Integer.class);
         //Then
         Assert.assertNull(resultWhenLessThanZeroIndex);
         Assert.assertNull(resultWhenIndexTooBig);
