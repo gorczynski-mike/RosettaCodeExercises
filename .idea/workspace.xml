@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="110e63f8-5023-46c7-bebd-ee3fd765390e" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/gorczynskimike/helloworldalltextversions/HelloWorldAll.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/gorczynskimike/stringappend/StringAppendSolution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/gorczynskimike/stringappend/StringAppendTestSuite.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -37,11 +38,36 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="HelloWorldAll.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="HelloWorldAll.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/gorczynskimike/helloworldalltextversions/HelloWorldAll.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="273">
               <caret line="13" column="44" selection-start-line="13" selection-start-column="44" selection-end-line="13" selection-end-column="44" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="StringAppendSolution.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/gorczynskimike/stringappend/StringAppendSolution.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="84">
+              <caret line="4" column="35" selection-start-line="4" selection-start-column="35" selection-end-line="4" selection-end-column="35" />
+              <folding>
+                <element signature="e#131#132#0" expanded="true" />
+                <element signature="e#161#162#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="StringAppendTestSuite.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/gorczynskimike/stringappend/StringAppendTestSuite.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="462">
+              <caret line="23" column="47" selection-start-line="23" selection-start-column="47" selection-end-line="23" selection-end-column="47" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -97,27 +123,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ArrayConcatenationSolution.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/gorczynskimike/arrayconcatenation/ArrayConcatenationSolution.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="252">
-              <caret line="12" selection-start-line="12" selection-end-line="12" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ArrayConcatenationTestSuite.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/gorczynskimike/arrayconcatenation/ArrayConcatenationTestSuite.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="777">
-              <caret line="37" column="107" selection-start-line="37" selection-start-column="107" selection-end-line="37" selection-end-column="107" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
     </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
@@ -149,6 +154,8 @@
         <option value="$PROJECT_DIR$/src/main/java/com/gorczynskimike/Main.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/gorczynskimike/zigzagmatrix/ZigZagMatrixTestSuite.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/gorczynskimike/helloworldalltextversions/HelloWorldAll.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/gorczynskimike/stringappend/StringAppendSolution.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/gorczynskimike/stringappend/StringAppendTestSuite.java" />
       </list>
     </option>
   </component>
@@ -213,16 +220,7 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="gorczynskimike" type="462c0819:PsiDirectoryNode" />
-              <item name="helloworldalltextversions" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="RosettaCodeExercises" type="b2602c69:ProjectViewProjectNode" />
-              <item name="RosettaCodeExercises" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="gorczynskimike" type="462c0819:PsiDirectoryNode" />
-              <item name="zigzagmatrix" type="462c0819:PsiDirectoryNode" />
+              <item name="stringappend" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="RosettaCodeExercises" type="b2602c69:ProjectViewProjectNode" />
@@ -252,7 +250,7 @@
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="gorczynskimike" type="462c0819:PsiDirectoryNode" />
-              <item name="zigzagmatrix" type="462c0819:PsiDirectoryNode" />
+              <item name="stringappend" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -279,7 +277,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.HelloWorldAll">
+  <component name="RunManager" selected="JUnit.StringAppendTestSuite.testAllMethodsOfConcatenation">
     <configuration name="HelloWorldAll" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.gorczynskimike.helloworldalltextversions.HelloWorldAll" />
       <module name="RosettaCodeExercises" />
@@ -290,30 +288,30 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.gorczynskimike.Main" />
+    <configuration name="StringAppendSolution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.gorczynskimike.stringappend.StringAppendSolution" />
       <module name="RosettaCodeExercises" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.gorczynskimike.*" />
+          <option name="PATTERN" value="com.gorczynskimike.stringappend.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="IdentityMatrixTestSuite" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="StringAppendTestSuite.testAllMethodsOfConcatenation" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="RosettaCodeExercises" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.gorczynskimike.identitymatrix.*" />
+          <option name="PATTERN" value="com.gorczynskimike.stringappend.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="com.gorczynskimike.identitymatrix" />
-      <option name="MAIN_CLASS_NAME" value="com.gorczynskimike.identitymatrix.IdentityMatrixTestSuite" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="class" />
+      <option name="PACKAGE_NAME" value="com.gorczynskimike.stringappend" />
+      <option name="MAIN_CLASS_NAME" value="com.gorczynskimike.stringappend.StringAppendTestSuite" />
+      <option name="METHOD_NAME" value="testAllMethodsOfConcatenation" />
+      <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" />
       <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" />
@@ -385,19 +383,19 @@
       <method />
     </configuration>
     <list>
-      <item itemvalue="JUnit.IdentityMatrixTestSuite" />
-      <item itemvalue="Application.Main" />
       <item itemvalue="JUnit.ZigZagMatrixTestSuite.testZigZagSizeOne" />
       <item itemvalue="JUnit.ZigZagMatrixTestSuite" />
       <item itemvalue="Application.HelloWorldAll" />
+      <item itemvalue="Application.StringAppendSolution" />
+      <item itemvalue="JUnit.StringAppendTestSuite.testAllMethodsOfConcatenation" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.StringAppendTestSuite.testAllMethodsOfConcatenation" />
+        <item itemvalue="Application.StringAppendSolution" />
         <item itemvalue="Application.HelloWorldAll" />
         <item itemvalue="JUnit.ZigZagMatrixTestSuite" />
         <item itemvalue="JUnit.ZigZagMatrixTestSuite.testZigZagSizeOne" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="JUnit.IdentityMatrixTestSuite" />
       </list>
     </recent_temporary>
   </component>
@@ -411,7 +409,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1537620608564</updated>
-      <workItem from="1537620610803" duration="11397000" />
+      <workItem from="1537620610803" duration="12357000" />
     </task>
     <servers />
   </component>
@@ -448,7 +446,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11397000" />
+    <option name="totallyTimeSpent" value="12357000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="99" y="-9" width="1830" height="1098" extended-state="6" />
@@ -463,12 +461,12 @@
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" />
       <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32984293" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32984293" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Terminal" weight="0.32984293" />
       <window_info id="Capture Tool" />
       <window_info id="Designer" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info anchor="right" id="Database" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -616,6 +614,27 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="273">
           <caret line="13" column="44" selection-start-line="13" selection-start-column="44" selection-end-line="13" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/gorczynskimike/stringappend/StringAppendSolution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="4" column="35" selection-start-line="4" selection-start-column="35" selection-end-line="4" selection-end-column="35" />
+          <folding>
+            <element signature="e#131#132#0" expanded="true" />
+            <element signature="e#161#162#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/gorczynskimike/stringappend/StringAppendTestSuite.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="23" column="47" selection-start-line="23" selection-start-column="47" selection-end-line="23" selection-end-column="47" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
