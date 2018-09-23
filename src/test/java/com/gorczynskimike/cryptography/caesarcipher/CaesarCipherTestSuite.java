@@ -1,4 +1,4 @@
-package com.gorczynskimike.caesarcipher;
+package com.gorczynskimike.cryptography.caesarcipher;
 
 import org.junit.Test;
 
