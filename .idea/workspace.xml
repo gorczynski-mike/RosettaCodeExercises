@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="110e63f8-5023-46c7-bebd-ee3fd765390e" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/gorczynskimike/zigzagmatrix/ZigZagMatrixSolution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/gorczynskimike/zigzagmatrix/ZigZagMatrixTestSuite.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/gorczynskimike/helloworldalltextversions/HelloWorldAll.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/gorczynskimike/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gorczynskimike/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/gorczynskimike/identitymatrix/IdentityMatrixTestSuite.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/gorczynskimike/identitymatrix/IdentityMatrixTestSuite.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -28,14 +25,23 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ZigZagMatrixTestSuite.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ZigZagMatrixTestSuite.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/gorczynskimike/zigzagmatrix/ZigZagMatrixTestSuite.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="317">
+            <state relative-caret-position="275">
               <caret line="36" column="33" lean-forward="true" selection-start-line="36" selection-start-column="33" selection-end-line="36" selection-end-column="33" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HelloWorldAll.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/gorczynskimike/helloworldalltextversions/HelloWorldAll.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="273">
+              <caret line="13" column="44" selection-start-line="13" selection-start-column="44" selection-end-line="13" selection-end-column="44" />
             </state>
           </provider>
         </entry>
@@ -112,15 +118,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ReflectiveCallable.class" pinned="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/internal/runners/model/ReflectiveCallable.class">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="273">
-              <caret line="16" selection-start-line="16" selection-end-line="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
     </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
@@ -151,6 +148,7 @@
         <option value="$PROJECT_DIR$/src/main/java/com/gorczynskimike/zigzagmatrix/ZigZagMatrixSolution.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/gorczynskimike/Main.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/gorczynskimike/zigzagmatrix/ZigZagMatrixTestSuite.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/gorczynskimike/helloworldalltextversions/HelloWorldAll.java" />
       </list>
     </option>
   </component>
@@ -207,6 +205,15 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="gorczynskimike" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RosettaCodeExercises" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RosettaCodeExercises" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="gorczynskimike" type="462c0819:PsiDirectoryNode" />
+              <item name="helloworldalltextversions" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="RosettaCodeExercises" type="b2602c69:ProjectViewProjectNode" />
@@ -272,7 +279,17 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.ZigZagMatrixTestSuite">
+  <component name="RunManager" selected="Application.HelloWorldAll">
+    <configuration name="HelloWorldAll" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.gorczynskimike.helloworldalltextversions.HelloWorldAll" />
+      <module name="RosettaCodeExercises" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.gorczynskimike.helloworldalltextversions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.gorczynskimike.Main" />
       <module name="RosettaCodeExercises" />
@@ -297,29 +314,6 @@
       <option name="MAIN_CLASS_NAME" value="com.gorczynskimike.identitymatrix.IdentityMatrixTestSuite" />
       <option name="METHOD_NAME" />
       <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
-    </configuration>
-    <configuration name="IdentityMatrixTestSuite.testIdentityMatrixThreeSizes" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="RosettaCodeExercises" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.gorczynskimike.identitymatrix.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="com.gorczynskimike.identitymatrix" />
-      <option name="MAIN_CLASS_NAME" value="com.gorczynskimike.identitymatrix.IdentityMatrixTestSuite" />
-      <option name="METHOD_NAME" value="testIdentityMatrixThreeSizes" />
-      <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" />
       <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" />
@@ -391,19 +385,19 @@
       <method />
     </configuration>
     <list>
-      <item itemvalue="JUnit.IdentityMatrixTestSuite.testIdentityMatrixThreeSizes" />
       <item itemvalue="JUnit.IdentityMatrixTestSuite" />
       <item itemvalue="Application.Main" />
       <item itemvalue="JUnit.ZigZagMatrixTestSuite.testZigZagSizeOne" />
       <item itemvalue="JUnit.ZigZagMatrixTestSuite" />
+      <item itemvalue="Application.HelloWorldAll" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.HelloWorldAll" />
         <item itemvalue="JUnit.ZigZagMatrixTestSuite" />
         <item itemvalue="JUnit.ZigZagMatrixTestSuite.testZigZagSizeOne" />
         <item itemvalue="Application.Main" />
         <item itemvalue="JUnit.IdentityMatrixTestSuite" />
-        <item itemvalue="JUnit.IdentityMatrixTestSuite.testIdentityMatrixThreeSizes" />
       </list>
     </recent_temporary>
   </component>
@@ -417,14 +411,11 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1537620608564</updated>
-      <workItem from="1537620610803" duration="10601000" />
+      <workItem from="1537620610803" duration="11397000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="com_gorczynskimike_in_RosettaCodeExercises - 2018.09.22 at 18h 08m 53s.xml">
-      <configuration name="com.gorczynskimike in RosettaCodeExercises" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="IdentityMatrixTestSuite_testReturnsNullIfSizeTooSmall - 2018.09.22 at 18h 31m 59s.xml">
       <configuration name="IdentityMatrixTestSuite.testReturnsNullIfSizeTooSmall" configurationId="JUnit" />
     </history-entry>
@@ -452,9 +443,12 @@
     <history-entry file="ZigZagMatrixTestSuite - 2018.09.22 at 19h 17m 30s.xml">
       <configuration name="ZigZagMatrixTestSuite" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="ZigZagMatrixTestSuite - 2018.09.22 at 19h 20m 49s.xml">
+      <configuration name="ZigZagMatrixTestSuite" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10601000" />
+    <option name="totallyTimeSpent" value="11397000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="99" y="-9" width="1830" height="1098" extended-state="6" />
@@ -610,11 +604,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/gorczynskimike/zigzagmatrix/ZigZagMatrixTestSuite.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="317">
+        <state relative-caret-position="275">
           <caret line="36" column="33" lean-forward="true" selection-start-line="36" selection-start-column="33" selection-end-line="36" selection-end-column="33" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/gorczynskimike/helloworldalltextversions/HelloWorldAll.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="13" column="44" selection-start-line="13" selection-start-column="44" selection-end-line="13" selection-end-column="44" />
         </state>
       </provider>
     </entry>
