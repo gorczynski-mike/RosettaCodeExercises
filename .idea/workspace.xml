@@ -2,36 +2,25 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="110e63f8-5023-46c7-bebd-ee3fd765390e" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/gorczynskimike/arrays/arraysumandproduct/SumAndProductOfArraySolution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/gorczynskimike/arrays/arraysumandproduct/SumAndProductTestSuite.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/gorczynskimike/sumofintegerdigits/SumOfIntegerDigitsSolution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/gorczynskimike/sumofintegerdigits/SumOfIntegerDigitsTestSuite.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/gorczynskimike/arrayconcatenation/ArrayConcatenationSolution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gorczynskimike/arrays/arrayconcatenation/ArrayConcatenationSolution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/gorczynskimike/arraylength/ArrayLengthSolution.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/gorczynskimike/arraylength/ArrayLengthSolution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gorczynskimike/arrays/arraylength/ArrayLengthSolution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/gorczynskimike/arrays/ArraysSolution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gorczynskimike/arrays/arraysexample/ArraysSolution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/gorczynskimike/helloworldalltextversions/HelloWorldAll.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/gorczynskimike/identitymatrix/IdentityMatrixSolution.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/gorczynskimike/identitymatrix/IdentityMatrixSolution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gorczynskimike/matrixes/identitymatrix/IdentityMatrixSolution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/gorczynskimike/stringappend/StringAppendSolution.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/gorczynskimike/stringappend/StringAppendSolution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gorczynskimike/strings/stringappend/StringAppendSolution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/gorczynskimike/stringcase/StringCaseSolution.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/gorczynskimike/stringcase/StringCaseSolution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gorczynskimike/strings/stringcase/StringCaseSolution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/gorczynskimike/stringinterpolation/StringInterpolationSolution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gorczynskimike/strings/stringinterpolation/StringInterpolationSolution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/gorczynskimike/zigzagmatrix/ZigZagMatrixSolution.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/gorczynskimike/zigzagmatrix/ZigZagMatrixSolution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gorczynskimike/matrixes/zigzagmatrix/ZigZagMatrixSolution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/gorczynskimike/arrayconcatenation/ArrayConcatenationTestSuite.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/gorczynskimike/arrays/arrayconcatenation/ArrayConcatenationTestSuite.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/gorczynskimike/arraylength/ArrayLengthSolutionTestSuite.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/gorczynskimike/arraylength/ArrayLengthSolutionTestSuite.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/gorczynskimike/arrays/arraylength/ArrayLengthSolutionTestSuite.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/gorczynskimike/arrays/ArraysTestSuite.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/gorczynskimike/arrays/arraysexample/ArraysTestSuite.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/gorczynskimike/identitymatrix/IdentityMatrixTestSuite.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/gorczynskimike/identitymatrix/IdentityMatrixTestSuite.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/gorczynskimike/matrixes/identitymatrix/IdentityMatrixTestSuite.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/gorczynskimike/stringappend/StringAppendTestSuite.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/gorczynskimike/stringappend/StringAppendTestSuite.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/gorczynskimike/strings/stringappend/StringAppendTestSuite.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/gorczynskimike/stringcase/StringCaseTestSuite.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/gorczynskimike/stringcase/StringCaseTestSuite.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/gorczynskimike/strings/stringcase/StringCaseTestSuite.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/gorczynskimike/stringinterpolation/StringInterpolationDemonstration.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/gorczynskimike/strings/stringinterpolation/StringInterpolationDemonstration.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/gorczynskimike/zigzagmatrix/ZigZagMatrixTestSuite.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/gorczynskimike/zigzagmatrix/ZigZagMatrixTestSuite.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/gorczynskimike/matrixes/zigzagmatrix/ZigZagMatrixTestSuite.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/gorczynskimike/arraylength/ArrayLengthSolution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/gorczynskimike/arrays/ArraysSolution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/gorczynskimike/identitymatrix/IdentityMatrixSolution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/gorczynskimike/stringappend/StringAppendSolution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/gorczynskimike/stringcase/StringCaseSolution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/gorczynskimike/stringinterpolation/StringInterpolationSolution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/gorczynskimike/sumandproductofarray/SumAndProductOfArraySolution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/gorczynskimike/zigzagmatrix/ZigZagMatrixSolution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/gorczynskimike/arraylength/ArrayLengthSolutionTestSuite.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/gorczynskimike/arrays/ArraysTestSuite.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/gorczynskimike/identitymatrix/IdentityMatrixTestSuite.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/gorczynskimike/stringappend/StringAppendTestSuite.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/gorczynskimike/stringcase/StringCaseTestSuite.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/gorczynskimike/stringinterpolation/StringInterpolationDemonstration.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/gorczynskimike/sumandproductofarray/SumAndProductTestSuite.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/gorczynskimike/zigzagmatrix/ZigZagMatrixTestSuite.class" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -44,28 +33,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="HelloWorldAll.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/gorczynskimike/helloworld/HelloWorldAll.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="273">
-              <caret line="13" column="44" selection-start-line="13" selection-start-column="44" selection-end-line="13" selection-end-column="44" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="StringAppendSolution.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/gorczynskimike/strings/stringappend/StringAppendSolution.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="84">
-              <caret line="4" column="35" selection-start-line="4" selection-start-column="35" selection-end-line="4" selection-end-column="35" />
-              <folding>
-                <element signature="e#131#132#0" expanded="true" />
-                <element signature="e#161#162#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="StringAppendTestSuite.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/gorczynskimike/strings/stringappend/StringAppendTestSuite.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -135,11 +102,32 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ArraysSolution.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ArraysSolution.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/gorczynskimike/arrays/arraysexample/ArraysSolution.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="252">
               <caret line="12" column="57" selection-start-line="12" selection-start-column="57" selection-end-line="12" selection-end-column="57" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SumOfIntegerDigitsSolution.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/gorczynskimike/sumofintegerdigits/SumOfIntegerDigitsSolution.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="504">
+              <caret line="30" column="22" selection-start-line="30" selection-start-column="22" selection-end-line="30" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SumOfIntegerDigitsTestSuite.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/gorczynskimike/sumofintegerdigits/SumOfIntegerDigitsTestSuite.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="380">
+              <caret line="43" column="58" selection-start-line="43" selection-start-column="58" selection-end-line="43" selection-end-column="58" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -195,6 +183,8 @@
         <option value="$PROJECT_DIR$/src/test/java/com/gorczynskimike/sumandproductofarray/SumAndProductTestSuite.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/gorczynskimike/arraysexample/ArraysSolution.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/gorczynskimike/arrays/arraysexample/ArraysSolution.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/gorczynskimike/sumofintegerdigits/SumOfIntegerDigitsSolution.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/gorczynskimike/sumofintegerdigits/SumOfIntegerDigitsTestSuite.java" />
       </list>
     </option>
   </component>
@@ -256,6 +246,15 @@
               <item name="RosettaCodeExercises" type="b2602c69:ProjectViewProjectNode" />
               <item name="RosettaCodeExercises" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="gorczynskimike" type="462c0819:PsiDirectoryNode" />
+              <item name="sumofintegerdigits" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RosettaCodeExercises" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RosettaCodeExercises" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -272,6 +271,15 @@
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="gorczynskimike" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RosettaCodeExercises" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RosettaCodeExercises" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="gorczynskimike" type="462c0819:PsiDirectoryNode" />
+              <item name="sumofintegerdigits" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -305,42 +313,19 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.SumAndProductTestSuite">
-    <configuration name="StringAppendTestSuite.testAllMethodsOfConcatenation" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.SumOfIntegerDigitsTestSuite">
+    <configuration name="SumOfIntegerDigitsTestSuite" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="RosettaCodeExercises" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.gorczynskimike.strings.stringappend.*" />
+          <option name="PATTERN" value="com.gorczynskimike.sumofintegerdigits.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="com.gorczynskimike.strings.stringappend" />
-      <option name="MAIN_CLASS_NAME" value="com.gorczynskimike.strings.stringappend.StringAppendTestSuite" />
-      <option name="METHOD_NAME" value="testAllMethodsOfConcatenation" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
-    </configuration>
-    <configuration name="StringCaseTestSuite" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="RosettaCodeExercises" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.gorczynskimike.strings.stringcase.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="com.gorczynskimike.strings.stringcase" />
-      <option name="MAIN_CLASS_NAME" value="com.gorczynskimike.strings.stringcase.StringCaseTestSuite" />
+      <option name="PACKAGE_NAME" value="com.gorczynskimike.sumofintegerdigits" />
+      <option name="MAIN_CLASS_NAME" value="com.gorczynskimike.sumofintegerdigits.SumOfIntegerDigitsTestSuite" />
       <option name="METHOD_NAME" />
       <option name="TEST_OBJECT" value="class" />
       <option name="VM_PARAMETERS" />
@@ -352,19 +337,19 @@
       </option>
       <patterns />
     </configuration>
-    <configuration name="StringInterpolationDemonstration.demonstrate" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="SumOfIntegerDigitsTestSuite.testSumOfIntegerBaseTen" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="RosettaCodeExercises" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.gorczynskimike.strings.stringinterpolation.*" />
+          <option name="PATTERN" value="com.gorczynskimike.sumofintegerdigits.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="com.gorczynskimike.strings.stringinterpolation" />
-      <option name="MAIN_CLASS_NAME" value="com.gorczynskimike.strings.stringinterpolation.StringInterpolationDemonstration" />
-      <option name="METHOD_NAME" value="demonstrate" />
+      <option name="PACKAGE_NAME" value="com.gorczynskimike.sumofintegerdigits" />
+      <option name="MAIN_CLASS_NAME" value="com.gorczynskimike.sumofintegerdigits.SumOfIntegerDigitsTestSuite" />
+      <option name="METHOD_NAME" value="testSumOfIntegerBaseTen" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" />
       <option name="PARAMETERS" />
@@ -375,20 +360,20 @@
       </option>
       <patterns />
     </configuration>
-    <configuration name="SumAndProductTestSuite" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="SumOfIntegerDigitsTestSuite.testSumOfIntegerDigitsBaseEight" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="RosettaCodeExercises" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.gorczynskimike.arrays.arraysumandproduct.*" />
+          <option name="PATTERN" value="com.gorczynskimike.sumofintegerdigits.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="com.gorczynskimike.arrays.arraysumandproduct" />
-      <option name="MAIN_CLASS_NAME" value="com.gorczynskimike.arrays.arraysumandproduct.SumAndProductTestSuite" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="class" />
+      <option name="PACKAGE_NAME" value="com.gorczynskimike.sumofintegerdigits" />
+      <option name="MAIN_CLASS_NAME" value="com.gorczynskimike.sumofintegerdigits.SumOfIntegerDigitsTestSuite" />
+      <option name="METHOD_NAME" value="testSumOfIntegerDigitsBaseEight" />
+      <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" />
       <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" />
@@ -398,19 +383,42 @@
       </option>
       <patterns />
     </configuration>
-    <configuration name="SumAndProductTestSuite.testSum" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="SumOfIntegerDigitsTestSuite.testSumOfIntegerDigitsBaseSixteen" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="RosettaCodeExercises" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.gorczynskimike.arrays.arraysumandproduct.*" />
+          <option name="PATTERN" value="com.gorczynskimike.sumofintegerdigits.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="com.gorczynskimike.arrays.arraysumandproduct" />
-      <option name="MAIN_CLASS_NAME" value="com.gorczynskimike.arrays.arraysumandproduct.SumAndProductTestSuite" />
-      <option name="METHOD_NAME" value="testSum" />
+      <option name="PACKAGE_NAME" value="com.gorczynskimike.sumofintegerdigits" />
+      <option name="MAIN_CLASS_NAME" value="com.gorczynskimike.sumofintegerdigits.SumOfIntegerDigitsTestSuite" />
+      <option name="METHOD_NAME" value="testSumOfIntegerDigitsBaseSixteen" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="SumOfIntegerDigitsTestSuite.testSumOfIntegerDigitsBaseSixteenOtherMethod" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="RosettaCodeExercises" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.gorczynskimike.sumofintegerdigits.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.gorczynskimike.sumofintegerdigits" />
+      <option name="MAIN_CLASS_NAME" value="com.gorczynskimike.sumofintegerdigits.SumOfIntegerDigitsTestSuite" />
+      <option name="METHOD_NAME" value="testSumOfIntegerDigitsBaseSixteenOtherMethod" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" />
       <option name="PARAMETERS" />
@@ -437,19 +445,19 @@
       <method />
     </configuration>
     <list>
-      <item itemvalue="JUnit.StringAppendTestSuite.testAllMethodsOfConcatenation" />
-      <item itemvalue="JUnit.StringCaseTestSuite" />
-      <item itemvalue="JUnit.StringInterpolationDemonstration.demonstrate" />
-      <item itemvalue="JUnit.SumAndProductTestSuite.testSum" />
-      <item itemvalue="JUnit.SumAndProductTestSuite" />
+      <item itemvalue="JUnit.SumOfIntegerDigitsTestSuite.testSumOfIntegerBaseTen" />
+      <item itemvalue="JUnit.SumOfIntegerDigitsTestSuite.testSumOfIntegerDigitsBaseSixteen" />
+      <item itemvalue="JUnit.SumOfIntegerDigitsTestSuite.testSumOfIntegerDigitsBaseEight" />
+      <item itemvalue="JUnit.SumOfIntegerDigitsTestSuite.testSumOfIntegerDigitsBaseSixteenOtherMethod" />
+      <item itemvalue="JUnit.SumOfIntegerDigitsTestSuite" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.SumAndProductTestSuite" />
-        <item itemvalue="JUnit.SumAndProductTestSuite.testSum" />
-        <item itemvalue="JUnit.StringInterpolationDemonstration.demonstrate" />
-        <item itemvalue="JUnit.StringCaseTestSuite" />
-        <item itemvalue="JUnit.StringAppendTestSuite.testAllMethodsOfConcatenation" />
+        <item itemvalue="JUnit.SumOfIntegerDigitsTestSuite" />
+        <item itemvalue="JUnit.SumOfIntegerDigitsTestSuite.testSumOfIntegerDigitsBaseSixteenOtherMethod" />
+        <item itemvalue="JUnit.SumOfIntegerDigitsTestSuite.testSumOfIntegerDigitsBaseEight" />
+        <item itemvalue="JUnit.SumOfIntegerDigitsTestSuite.testSumOfIntegerDigitsBaseSixteen" />
+        <item itemvalue="JUnit.SumOfIntegerDigitsTestSuite.testSumOfIntegerBaseTen" />
       </list>
     </recent_temporary>
   </component>
@@ -463,23 +471,11 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1537620608564</updated>
-      <workItem from="1537620610803" duration="15525000" />
+      <workItem from="1537620610803" duration="16497000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="StringInterpolationDemonstration_demonstrate - 2018.09.23 at 09h 24m 17s.xml">
-      <configuration name="StringInterpolationDemonstration.demonstrate" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="StringInterpolationDemonstration_demonstrate - 2018.09.23 at 09h 24m 28s.xml">
-      <configuration name="StringInterpolationDemonstration.demonstrate" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="StringInterpolationDemonstration_demonstrate - 2018.09.23 at 09h 24m 44s.xml">
-      <configuration name="StringInterpolationDemonstration.demonstrate" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="StringInterpolationDemonstration_demonstrate - 2018.09.23 at 09h 25m 06s.xml">
-      <configuration name="StringInterpolationDemonstration.demonstrate" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="StringInterpolationDemonstration_demonstrate - 2018.09.23 at 09h 25m 18s.xml">
       <configuration name="StringInterpolationDemonstration.demonstrate" configurationId="JUnit" />
     </history-entry>
@@ -498,12 +494,25 @@
     <history-entry file="SumAndProductTestSuite - 2018.09.23 at 09h 35m 48s.xml">
       <configuration name="SumAndProductTestSuite" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="SumOfIntegerDigitsTestSuite_testSumOfIntegerBaseTen - 2018.09.23 at 09h 51m 34s.xml">
+      <configuration name="SumOfIntegerDigitsTestSuite.testSumOfIntegerBaseTen" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SumOfIntegerDigitsTestSuite_testSumOfIntegerDigitsBaseSixteen - 2018.09.23 at 09h 53m 43s.xml">
+      <configuration name="SumOfIntegerDigitsTestSuite.testSumOfIntegerDigitsBaseSixteen" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SumOfIntegerDigitsTestSuite_testSumOfIntegerDigitsBaseSixteen - 2018.09.23 at 09h 53m 55s.xml">
+      <configuration name="SumOfIntegerDigitsTestSuite.testSumOfIntegerDigitsBaseSixteen" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SumOfIntegerDigitsTestSuite_testSumOfIntegerDigitsBaseEight - 2018.09.23 at 09h 56m 05s.xml">
+      <configuration name="SumOfIntegerDigitsTestSuite.testSumOfIntegerDigitsBaseEight" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15525000" />
+    <option name="totallyTimeSpent" value="16497000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="99" y="-9" width="1830" height="1098" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -514,12 +523,12 @@
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" />
       <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32984293" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32984293" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Terminal" weight="0.32984293" />
       <window_info id="Capture Tool" />
       <window_info id="Designer" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info anchor="right" id="Database" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -742,6 +751,23 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="252">
           <caret line="12" column="57" selection-start-line="12" selection-start-column="57" selection-end-line="12" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/gorczynskimike/sumofintegerdigits/SumOfIntegerDigitsSolution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="30" column="22" selection-start-line="30" selection-start-column="22" selection-end-line="30" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/gorczynskimike/sumofintegerdigits/SumOfIntegerDigitsTestSuite.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="43" column="58" selection-start-line="43" selection-start-column="58" selection-end-line="43" selection-end-column="58" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
