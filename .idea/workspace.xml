@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="110e63f8-5023-46c7-bebd-ee3fd765390e" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/gorczynskimike/stringappend/StringAppendSolution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/gorczynskimike/stringappend/StringAppendTestSuite.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/gorczynskimike/stringcase/StringCaseSolution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/gorczynskimike/stringinterpolation/StringInterpolationSolution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/gorczynskimike/stringcase/StringCaseTestSuite.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/gorczynskimike/stringinterpolation/StringInterpolationDemonstration.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -60,10 +62,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="StringAppendTestSuite.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="StringAppendTestSuite.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/gorczynskimike/stringappend/StringAppendTestSuite.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="462">
+            <state relative-caret-position="483">
               <caret line="23" column="47" selection-start-line="23" selection-start-column="47" selection-end-line="23" selection-end-column="47" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -72,20 +74,26 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ArraysSolution.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/gorczynskimike/arrays/ArraysSolution.java">
+      <file leaf-file-name="StringCaseSolution.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/gorczynskimike/stringcase/StringCaseSolution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="212">
-              <caret line="12" column="57" selection-start-line="12" selection-start-column="57" selection-end-line="12" selection-end-column="57" />
+            <state relative-caret-position="191">
+              <caret line="22" column="30" selection-start-line="22" selection-start-column="30" selection-end-line="22" selection-end-column="30" />
+              <folding>
+                <element signature="e#120#121#0" expanded="true" />
+                <element signature="e#158#159#0" expanded="true" />
+                <element signature="e#551#552#0" expanded="true" />
+                <element signature="e#588#589#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ArraysTestSuite.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/gorczynskimike/arrays/ArraysTestSuite.java">
+      <file leaf-file-name="StringCaseTestSuite.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/gorczynskimike/stringcase/StringCaseTestSuite.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="236">
-              <caret line="39" column="108" selection-start-line="39" selection-start-column="108" selection-end-line="39" selection-end-column="108" />
+            <state relative-caret-position="189">
+              <caret line="18" selection-start-line="18" selection-end-line="18" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -93,11 +101,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="IdentityMatrixSolution.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/gorczynskimike/identitymatrix/IdentityMatrixSolution.java">
+      <file leaf-file-name="StringInterpolationSolution.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/gorczynskimike/stringinterpolation/StringInterpolationSolution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="378">
-              <caret line="18" column="30" selection-start-line="18" selection-start-column="30" selection-end-line="18" selection-end-column="30" />
+            <state relative-caret-position="42">
+              <caret line="2" column="42" selection-start-line="2" selection-start-column="42" selection-end-line="2" selection-end-column="42" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="StringInterpolationDemonstration.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/gorczynskimike/stringinterpolation/StringInterpolationDemonstration.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="10" column="51" selection-start-line="10" selection-start-column="51" selection-end-line="10" selection-end-column="51" />
             </state>
           </provider>
         </entry>
@@ -107,18 +124,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="294">
               <caret line="14" column="38" lean-forward="true" selection-start-line="14" selection-start-column="38" selection-end-line="14" selection-end-column="38" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="IdentityMatrixTestSuite.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/gorczynskimike/identitymatrix/IdentityMatrixTestSuite.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret line="20" column="48" selection-start-line="20" selection-start-column="48" selection-end-line="20" selection-end-column="48" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -156,6 +161,10 @@
         <option value="$PROJECT_DIR$/src/main/java/com/gorczynskimike/helloworldalltextversions/HelloWorldAll.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/gorczynskimike/stringappend/StringAppendSolution.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/gorczynskimike/stringappend/StringAppendTestSuite.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/gorczynskimike/stringcase/StringCaseSolution.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/gorczynskimike/stringcase/StringCaseTestSuite.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/gorczynskimike/stringinterpolation/StringInterpolationDemonstration.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/gorczynskimike/stringinterpolation/StringInterpolationSolution.java" />
       </list>
     </option>
   </component>
@@ -220,7 +229,7 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="gorczynskimike" type="462c0819:PsiDirectoryNode" />
-              <item name="stringappend" type="462c0819:PsiDirectoryNode" />
+              <item name="stringinterpolation" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="RosettaCodeExercises" type="b2602c69:ProjectViewProjectNode" />
@@ -250,7 +259,7 @@
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="gorczynskimike" type="462c0819:PsiDirectoryNode" />
-              <item name="stringappend" type="462c0819:PsiDirectoryNode" />
+              <item name="stringinterpolation" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -277,7 +286,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.StringAppendTestSuite.testAllMethodsOfConcatenation">
+  <component name="RunManager" selected="JUnit.StringInterpolationDemonstration.demonstrate">
     <configuration name="HelloWorldAll" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.gorczynskimike.helloworldalltextversions.HelloWorldAll" />
       <module name="RosettaCodeExercises" />
@@ -321,18 +330,18 @@
       </option>
       <patterns />
     </configuration>
-    <configuration name="ZigZagMatrixTestSuite" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="StringCaseTestSuite" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="RosettaCodeExercises" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.gorczynskimike.zigzagmatrix.*" />
+          <option name="PATTERN" value="com.gorczynskimike.stringcase.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="com.gorczynskimike.zigzagmatrix" />
-      <option name="MAIN_CLASS_NAME" value="com.gorczynskimike.zigzagmatrix.ZigZagMatrixTestSuite" />
+      <option name="PACKAGE_NAME" value="com.gorczynskimike.stringcase" />
+      <option name="MAIN_CLASS_NAME" value="com.gorczynskimike.stringcase.StringCaseTestSuite" />
       <option name="METHOD_NAME" />
       <option name="TEST_OBJECT" value="class" />
       <option name="VM_PARAMETERS" />
@@ -344,19 +353,19 @@
       </option>
       <patterns />
     </configuration>
-    <configuration name="ZigZagMatrixTestSuite.testZigZagSizeOne" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="StringInterpolationDemonstration.demonstrate" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="RosettaCodeExercises" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.gorczynskimike.zigzagmatrix.*" />
+          <option name="PATTERN" value="com.gorczynskimike.stringinterpolation.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="com.gorczynskimike.zigzagmatrix" />
-      <option name="MAIN_CLASS_NAME" value="com.gorczynskimike.zigzagmatrix.ZigZagMatrixTestSuite" />
-      <option name="METHOD_NAME" value="testZigZagSizeOne" />
+      <option name="PACKAGE_NAME" value="com.gorczynskimike.stringinterpolation" />
+      <option name="MAIN_CLASS_NAME" value="com.gorczynskimike.stringinterpolation.StringInterpolationDemonstration" />
+      <option name="METHOD_NAME" value="demonstrate" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" />
       <option name="PARAMETERS" />
@@ -383,19 +392,19 @@
       <method />
     </configuration>
     <list>
-      <item itemvalue="JUnit.ZigZagMatrixTestSuite.testZigZagSizeOne" />
-      <item itemvalue="JUnit.ZigZagMatrixTestSuite" />
       <item itemvalue="Application.HelloWorldAll" />
       <item itemvalue="Application.StringAppendSolution" />
       <item itemvalue="JUnit.StringAppendTestSuite.testAllMethodsOfConcatenation" />
+      <item itemvalue="JUnit.StringCaseTestSuite" />
+      <item itemvalue="JUnit.StringInterpolationDemonstration.demonstrate" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.StringInterpolationDemonstration.demonstrate" />
+        <item itemvalue="JUnit.StringCaseTestSuite" />
         <item itemvalue="JUnit.StringAppendTestSuite.testAllMethodsOfConcatenation" />
         <item itemvalue="Application.StringAppendSolution" />
         <item itemvalue="Application.HelloWorldAll" />
-        <item itemvalue="JUnit.ZigZagMatrixTestSuite" />
-        <item itemvalue="JUnit.ZigZagMatrixTestSuite.testZigZagSizeOne" />
       </list>
     </recent_temporary>
   </component>
@@ -409,44 +418,44 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1537620608564</updated>
-      <workItem from="1537620610803" duration="12357000" />
+      <workItem from="1537620610803" duration="14654000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="IdentityMatrixTestSuite_testReturnsNullIfSizeTooSmall - 2018.09.22 at 18h 31m 59s.xml">
-      <configuration name="IdentityMatrixTestSuite.testReturnsNullIfSizeTooSmall" configurationId="JUnit" />
+    <history-entry file="StringInterpolationDemonstration_demonstrate - 2018.09.23 at 09h 22m 08s.xml">
+      <configuration name="StringInterpolationDemonstration.demonstrate" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="IdentityMatrixTestSuite_testIdentityMatrixThreeSizes - 2018.09.22 at 18h 35m 00s.xml">
-      <configuration name="IdentityMatrixTestSuite.testIdentityMatrixThreeSizes" configurationId="JUnit" />
+    <history-entry file="StringInterpolationDemonstration_demonstrate - 2018.09.23 at 09h 22m 41s.xml">
+      <configuration name="StringInterpolationDemonstration.demonstrate" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="IdentityMatrixTestSuite_testIdentityMatrixThreeSizes - 2018.09.22 at 18h 35m 24s.xml">
-      <configuration name="IdentityMatrixTestSuite.testIdentityMatrixThreeSizes" configurationId="JUnit" />
+    <history-entry file="StringInterpolationDemonstration_demonstrate - 2018.09.23 at 09h 23m 08s.xml">
+      <configuration name="StringInterpolationDemonstration.demonstrate" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="IdentityMatrixTestSuite_testIdentityMatrixThreeSizes - 2018.09.22 at 18h 35m 33s.xml">
-      <configuration name="IdentityMatrixTestSuite.testIdentityMatrixThreeSizes" configurationId="JUnit" />
+    <history-entry file="StringInterpolationDemonstration_demonstrate - 2018.09.23 at 09h 23m 59s.xml">
+      <configuration name="StringInterpolationDemonstration.demonstrate" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="IdentityMatrixTestSuite_testIdentityMatrixThreeSizes - 2018.09.22 at 18h 36m 17s.xml">
-      <configuration name="IdentityMatrixTestSuite.testIdentityMatrixThreeSizes" configurationId="JUnit" />
+    <history-entry file="StringInterpolationDemonstration_demonstrate - 2018.09.23 at 09h 24m 17s.xml">
+      <configuration name="StringInterpolationDemonstration.demonstrate" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="IdentityMatrixTestSuite - 2018.09.22 at 18h 36m 21s.xml">
-      <configuration name="IdentityMatrixTestSuite" configurationId="JUnit" />
+    <history-entry file="StringInterpolationDemonstration_demonstrate - 2018.09.23 at 09h 24m 28s.xml">
+      <configuration name="StringInterpolationDemonstration.demonstrate" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ZigZagMatrixTestSuite_testZigZagSizeOne - 2018.09.22 at 19h 15m 46s.xml">
-      <configuration name="ZigZagMatrixTestSuite.testZigZagSizeOne" configurationId="JUnit" />
+    <history-entry file="StringInterpolationDemonstration_demonstrate - 2018.09.23 at 09h 24m 44s.xml">
+      <configuration name="StringInterpolationDemonstration.demonstrate" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ZigZagMatrixTestSuite - 2018.09.22 at 19h 17m 20s.xml">
-      <configuration name="ZigZagMatrixTestSuite" configurationId="JUnit" />
+    <history-entry file="StringInterpolationDemonstration_demonstrate - 2018.09.23 at 09h 25m 06s.xml">
+      <configuration name="StringInterpolationDemonstration.demonstrate" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ZigZagMatrixTestSuite - 2018.09.22 at 19h 17m 30s.xml">
-      <configuration name="ZigZagMatrixTestSuite" configurationId="JUnit" />
+    <history-entry file="StringInterpolationDemonstration_demonstrate - 2018.09.23 at 09h 25m 18s.xml">
+      <configuration name="StringInterpolationDemonstration.demonstrate" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ZigZagMatrixTestSuite - 2018.09.22 at 19h 20m 49s.xml">
-      <configuration name="ZigZagMatrixTestSuite" configurationId="JUnit" />
+    <history-entry file="StringInterpolationDemonstration_demonstrate - 2018.09.23 at 09h 25m 41s.xml">
+      <configuration name="StringInterpolationDemonstration.demonstrate" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12357000" />
+    <option name="totallyTimeSpent" value="14654000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="99" y="-9" width="1830" height="1098" extended-state="6" />
@@ -461,12 +470,12 @@
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" />
       <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32984293" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32984293" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Terminal" weight="0.32984293" />
       <window_info id="Capture Tool" />
       <window_info id="Designer" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info anchor="right" id="Database" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -490,7 +499,7 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="2" />
+      <option name="time" value="3" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
@@ -630,11 +639,48 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/gorczynskimike/stringappend/StringAppendTestSuite.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="462">
+        <state relative-caret-position="483">
           <caret line="23" column="47" selection-start-line="23" selection-start-column="47" selection-end-line="23" selection-end-column="47" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/gorczynskimike/stringcase/StringCaseSolution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="191">
+          <caret line="22" column="30" selection-start-line="22" selection-start-column="30" selection-end-line="22" selection-end-column="30" />
+          <folding>
+            <element signature="e#120#121#0" expanded="true" />
+            <element signature="e#158#159#0" expanded="true" />
+            <element signature="e#551#552#0" expanded="true" />
+            <element signature="e#588#589#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/gorczynskimike/stringcase/StringCaseTestSuite.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/gorczynskimike/stringinterpolation/StringInterpolationDemonstration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="10" column="51" selection-start-line="10" selection-start-column="51" selection-end-line="10" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/gorczynskimike/stringinterpolation/StringInterpolationSolution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="2" column="42" selection-start-line="2" selection-start-column="42" selection-end-line="2" selection-end-column="42" />
         </state>
       </provider>
     </entry>
