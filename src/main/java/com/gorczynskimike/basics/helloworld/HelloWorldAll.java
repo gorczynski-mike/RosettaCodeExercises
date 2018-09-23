@@ -1,4 +1,4 @@
-package com.gorczynskimike.helloworld;
+package com.gorczynskimike.basics.helloworld;
 
 public class HelloWorldAll {
 

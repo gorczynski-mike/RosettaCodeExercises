@@ -2,8 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="110e63f8-5023-46c7-bebd-ee3fd765390e" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/gorczynskimike/zerotopowerzero/ZeroToPowerZeroSolution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/gorczynskimike/basics/aplusb/APlusB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/gorczynskimike/caesarcipher/CaesarCipherSolution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/gorczynskimike/caesarcipher/CaesarCipherTestSuite.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/gorczynskimike/helloworld/HelloWorldAll.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gorczynskimike/basics/helloworld/HelloWorldAll.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/gorczynskimike/helloworld/HelloWorldAll.class" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -16,36 +20,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="SumAndProductOfArraySolution.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/gorczynskimike/arrays/arraysumandproduct/SumAndProductOfArraySolution.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="42">
-              <caret line="2" column="41" selection-start-line="2" selection-start-column="41" selection-end-line="2" selection-end-column="41" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SumAndProductTestSuite.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/gorczynskimike/arrays/arraysumandproduct/SumAndProductTestSuite.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="693">
-              <caret line="34" column="32" selection-start-line="34" selection-start-column="32" selection-end-line="34" selection-end-column="32" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ArraysSolution.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/gorczynskimike/arrays/arraysexample/ArraysSolution.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="252">
-              <caret line="12" column="57" selection-start-line="12" selection-start-column="57" selection-end-line="12" selection-end-column="57" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="SumOfIntegerDigitsSolution.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/gorczynskimike/sumofintegerdigits/SumOfIntegerDigitsSolution.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -79,7 +53,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ZeroToPowerZeroSolution.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ZeroToPowerZeroSolution.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/gorczynskimike/zerotopowerzero/ZeroToPowerZeroSolution.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="105">
@@ -87,6 +61,44 @@
               <folding>
                 <element signature="e#128#129#0" expanded="true" />
                 <element signature="e#164#165#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="APlusB.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/gorczynskimike/basics/aplusb/APlusB.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="126">
+              <caret line="6" column="59" selection-start-line="6" selection-start-column="59" selection-end-line="6" selection-end-column="59" />
+              <folding>
+                <element signature="e#109#110#0" expanded="true" />
+                <element signature="e#133#134#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CaesarCipherSolution.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/gorczynskimike/caesarcipher/CaesarCipherSolution.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="945">
+              <caret line="45" column="53" selection-start-line="45" selection-start-column="53" selection-end-line="45" selection-end-column="53" />
+              <folding>
+                <element signature="e#747#748#0" expanded="true" />
+                <element signature="e#783#784#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CaesarCipherTestSuite.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/gorczynskimike/caesarcipher/CaesarCipherTestSuite.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="485">
+              <caret line="60" column="42" selection-start-line="60" selection-start-column="42" selection-end-line="60" selection-end-column="42" />
+              <folding>
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -166,6 +178,10 @@
         <option value="$PROJECT_DIR$/src/test/java/com/gorczynskimike/systemtime/SystemTimeTestSuite.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/gorczynskimike/systemtime/SystemTimeSolution.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/gorczynskimike/zerotopowerzero/ZeroToPowerZeroSolution.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/gorczynskimike/aplusb/APlusB.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/gorczynskimike/basics/aplusb/APlusB.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/gorczynskimike/caesarcipher/CaesarCipherSolution.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/gorczynskimike/caesarcipher/CaesarCipherTestSuite.java" />
       </list>
     </option>
   </component>
@@ -233,7 +249,7 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="gorczynskimike" type="462c0819:PsiDirectoryNode" />
-              <item name="zerotopowerzero" type="462c0819:PsiDirectoryNode" />
+              <item name="caesarcipher" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="RosettaCodeExercises" type="b2602c69:ProjectViewProjectNode" />
@@ -263,7 +279,7 @@
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="gorczynskimike" type="462c0819:PsiDirectoryNode" />
-              <item name="systemtime" type="462c0819:PsiDirectoryNode" />
+              <item name="caesarcipher" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -294,39 +310,29 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ZeroToPowerZeroSolution">
-    <configuration name="SystemTimeSolution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.gorczynskimike.systemtime.SystemTimeSolution" />
+  <component name="RunManager" selected="JUnit.CaesarCipherTestSuite">
+    <configuration name="CaesarCipherSolution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.gorczynskimike.caesarcipher.CaesarCipherSolution" />
       <module name="RosettaCodeExercises" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.gorczynskimike.systemtime.*" />
+          <option name="PATTERN" value="com.gorczynskimike.caesarcipher.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="ZeroToPowerZeroSolution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.gorczynskimike.zerotopowerzero.ZeroToPowerZeroSolution" />
+    <configuration name="CaesarCipherTestSuite" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="RosettaCodeExercises" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.gorczynskimike.zerotopowerzero.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="SumOfIntegerDigitsTestSuite" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="RosettaCodeExercises" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.gorczynskimike.sumofintegerdigits.*" />
+          <option name="PATTERN" value="com.gorczynskimike.caesarcipher.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="com.gorczynskimike.sumofintegerdigits" />
-      <option name="MAIN_CLASS_NAME" value="com.gorczynskimike.sumofintegerdigits.SumOfIntegerDigitsTestSuite" />
+      <option name="PACKAGE_NAME" value="com.gorczynskimike.caesarcipher" />
+      <option name="MAIN_CLASS_NAME" value="com.gorczynskimike.caesarcipher.CaesarCipherTestSuite" />
       <option name="METHOD_NAME" />
       <option name="TEST_OBJECT" value="class" />
       <option name="VM_PARAMETERS" />
@@ -338,19 +344,19 @@
       </option>
       <patterns />
     </configuration>
-    <configuration name="SumOfIntegerDigitsTestSuite.testSumOfIntegerDigitsBaseSixteenOtherMethod" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="CaesarCipherTestSuite.testDecodeFunction" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="RosettaCodeExercises" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.gorczynskimike.sumofintegerdigits.*" />
+          <option name="PATTERN" value="com.gorczynskimike.caesarcipher.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="com.gorczynskimike.sumofintegerdigits" />
-      <option name="MAIN_CLASS_NAME" value="com.gorczynskimike.sumofintegerdigits.SumOfIntegerDigitsTestSuite" />
-      <option name="METHOD_NAME" value="testSumOfIntegerDigitsBaseSixteenOtherMethod" />
+      <option name="PACKAGE_NAME" value="com.gorczynskimike.caesarcipher" />
+      <option name="MAIN_CLASS_NAME" value="com.gorczynskimike.caesarcipher.CaesarCipherTestSuite" />
+      <option name="METHOD_NAME" value="testDecodeFunction" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" />
       <option name="PARAMETERS" />
@@ -361,19 +367,42 @@
       </option>
       <patterns />
     </configuration>
-    <configuration name="SystemTimeTestSuite.demonstrate" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="CaesarCipherTestSuite.testEncodeFunction" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="RosettaCodeExercises" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.gorczynskimike.systemtime.*" />
+          <option name="PATTERN" value="com.gorczynskimike.caesarcipher.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="com.gorczynskimike.systemtime" />
-      <option name="MAIN_CLASS_NAME" value="com.gorczynskimike.systemtime.SystemTimeTestSuite" />
-      <option name="METHOD_NAME" value="demonstrate" />
+      <option name="PACKAGE_NAME" value="com.gorczynskimike.caesarcipher" />
+      <option name="MAIN_CLASS_NAME" value="com.gorczynskimike.caesarcipher.CaesarCipherTestSuite" />
+      <option name="METHOD_NAME" value="testEncodeFunction" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="CaesarCipherTestSuite.testTextShouldNotChangeAfterEncodeAndDecode" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="RosettaCodeExercises" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.gorczynskimike.caesarcipher.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.gorczynskimike.caesarcipher" />
+      <option name="MAIN_CLASS_NAME" value="com.gorczynskimike.caesarcipher.CaesarCipherTestSuite" />
+      <option name="METHOD_NAME" value="testTextShouldNotChangeAfterEncodeAndDecode" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" />
       <option name="PARAMETERS" />
@@ -400,19 +429,19 @@
       <method />
     </configuration>
     <list>
-      <item itemvalue="JUnit.SumOfIntegerDigitsTestSuite.testSumOfIntegerDigitsBaseSixteenOtherMethod" />
-      <item itemvalue="JUnit.SumOfIntegerDigitsTestSuite" />
-      <item itemvalue="Application.SystemTimeSolution" />
-      <item itemvalue="JUnit.SystemTimeTestSuite.demonstrate" />
-      <item itemvalue="Application.ZeroToPowerZeroSolution" />
+      <item itemvalue="Application.CaesarCipherSolution" />
+      <item itemvalue="JUnit.CaesarCipherTestSuite.testEncodeFunction" />
+      <item itemvalue="JUnit.CaesarCipherTestSuite.testDecodeFunction" />
+      <item itemvalue="JUnit.CaesarCipherTestSuite.testTextShouldNotChangeAfterEncodeAndDecode" />
+      <item itemvalue="JUnit.CaesarCipherTestSuite" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ZeroToPowerZeroSolution" />
-        <item itemvalue="JUnit.SystemTimeTestSuite.demonstrate" />
-        <item itemvalue="Application.SystemTimeSolution" />
-        <item itemvalue="JUnit.SumOfIntegerDigitsTestSuite" />
-        <item itemvalue="JUnit.SumOfIntegerDigitsTestSuite.testSumOfIntegerDigitsBaseSixteenOtherMethod" />
+        <item itemvalue="JUnit.CaesarCipherTestSuite" />
+        <item itemvalue="JUnit.CaesarCipherTestSuite.testTextShouldNotChangeAfterEncodeAndDecode" />
+        <item itemvalue="JUnit.CaesarCipherTestSuite.testDecodeFunction" />
+        <item itemvalue="Application.CaesarCipherSolution" />
+        <item itemvalue="JUnit.CaesarCipherTestSuite.testEncodeFunction" />
       </list>
     </recent_temporary>
   </component>
@@ -427,44 +456,44 @@
       <option name="presentableId" value="Default" />
       <updated>1537620608564</updated>
       <workItem from="1537620610803" duration="18615000" />
-      <workItem from="1537712658161" duration="74000" />
+      <workItem from="1537712658161" duration="3605000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="SumAndProductTestSuite_testSum - 2018.09.23 at 09h 33m 11s.xml">
-      <configuration name="SumAndProductTestSuite.testSum" configurationId="JUnit" />
+    <history-entry file="CaesarCipherTestSuite_testDecodeFunction - 2018.09.23 at 17h 12m 58s.xml">
+      <configuration name="CaesarCipherTestSuite.testDecodeFunction" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SumAndProductTestSuite - 2018.09.23 at 09h 34m 44s.xml">
-      <configuration name="SumAndProductTestSuite" configurationId="JUnit" />
+    <history-entry file="CaesarCipherTestSuite_testDecodeFunction - 2018.09.23 at 17h 13m 59s.xml">
+      <configuration name="CaesarCipherTestSuite.testDecodeFunction" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SumAndProductTestSuite - 2018.09.23 at 09h 35m 48s.xml">
-      <configuration name="SumAndProductTestSuite" configurationId="JUnit" />
+    <history-entry file="CaesarCipherTestSuite_testDecodeFunction - 2018.09.23 at 17h 14m 11s.xml">
+      <configuration name="CaesarCipherTestSuite.testDecodeFunction" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SumOfIntegerDigitsTestSuite_testSumOfIntegerBaseTen - 2018.09.23 at 09h 51m 34s.xml">
-      <configuration name="SumOfIntegerDigitsTestSuite.testSumOfIntegerBaseTen" configurationId="JUnit" />
+    <history-entry file="CaesarCipherTestSuite_testDecodeFunction - 2018.09.23 at 17h 14m 31s.xml">
+      <configuration name="CaesarCipherTestSuite.testDecodeFunction" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SumOfIntegerDigitsTestSuite_testSumOfIntegerDigitsBaseSixteen - 2018.09.23 at 09h 53m 43s.xml">
-      <configuration name="SumOfIntegerDigitsTestSuite.testSumOfIntegerDigitsBaseSixteen" configurationId="JUnit" />
+    <history-entry file="CaesarCipherTestSuite_testDecodeFunction - 2018.09.23 at 17h 14m 42s.xml">
+      <configuration name="CaesarCipherTestSuite.testDecodeFunction" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SumOfIntegerDigitsTestSuite_testSumOfIntegerDigitsBaseSixteen - 2018.09.23 at 09h 53m 55s.xml">
-      <configuration name="SumOfIntegerDigitsTestSuite.testSumOfIntegerDigitsBaseSixteen" configurationId="JUnit" />
+    <history-entry file="CaesarCipherTestSuite_testDecodeFunction - 2018.09.23 at 17h 14m 50s.xml">
+      <configuration name="CaesarCipherTestSuite.testDecodeFunction" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SumOfIntegerDigitsTestSuite_testSumOfIntegerDigitsBaseEight - 2018.09.23 at 09h 56m 05s.xml">
-      <configuration name="SumOfIntegerDigitsTestSuite.testSumOfIntegerDigitsBaseEight" configurationId="JUnit" />
+    <history-entry file="CaesarCipherTestSuite_testDecodeFunction - 2018.09.23 at 17h 17m 36s.xml">
+      <configuration name="CaesarCipherTestSuite.testDecodeFunction" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SumOfIntegerDigitsTestSuite_testSumOfIntegerDigitsBaseSixteenOtherMethod - 2018.09.23 at 09h 57m 16s.xml">
-      <configuration name="SumOfIntegerDigitsTestSuite.testSumOfIntegerDigitsBaseSixteenOtherMethod" configurationId="JUnit" />
+    <history-entry file="CaesarCipherTestSuite_testDecodeFunction - 2018.09.23 at 17h 21m 40s.xml">
+      <configuration name="CaesarCipherTestSuite.testDecodeFunction" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SumOfIntegerDigitsTestSuite - 2018.09.23 at 09h 57m 21s.xml">
-      <configuration name="SumOfIntegerDigitsTestSuite" configurationId="JUnit" />
+    <history-entry file="CaesarCipherTestSuite_testDecodeFunction - 2018.09.23 at 17h 21m 54s.xml">
+      <configuration name="CaesarCipherTestSuite.testDecodeFunction" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SystemTimeTestSuite_demonstrate - 2018.09.23 at 10h 32m 19s.xml">
-      <configuration name="SystemTimeTestSuite.demonstrate" configurationId="JUnit" />
+    <history-entry file="CaesarCipherTestSuite_testDecodeFunction - 2018.09.23 at 17h 22m 05s.xml">
+      <configuration name="CaesarCipherTestSuite.testDecodeFunction" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18689000" />
+    <option name="totallyTimeSpent" value="22220000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="99" y="-9" width="1830" height="1098" extended-state="6" />
@@ -472,6 +501,7 @@
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.32984293" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
@@ -479,11 +509,11 @@
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32984293" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32984293" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.32984293" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -497,7 +527,6 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Messages" order="7" weight="0.32984293" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -508,7 +537,7 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="3" />
+      <option name="time" value="6" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
@@ -685,7 +714,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/gorczynskimike/helloworld/HelloWorldAll.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/gorczynskimike/basics/helloworld/HelloWorldAll.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="273">
           <caret line="13" column="44" selection-start-line="13" selection-start-column="44" selection-end-line="13" selection-end-column="44" />
@@ -820,6 +849,38 @@
           <folding>
             <element signature="e#128#129#0" expanded="true" />
             <element signature="e#164#165#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/gorczynskimike/basics/aplusb/APlusB.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="6" column="59" selection-start-line="6" selection-start-column="59" selection-end-line="6" selection-end-column="59" />
+          <folding>
+            <element signature="e#109#110#0" expanded="true" />
+            <element signature="e#133#134#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/gorczynskimike/caesarcipher/CaesarCipherSolution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="945">
+          <caret line="45" column="53" selection-start-line="45" selection-start-column="53" selection-end-line="45" selection-end-column="53" />
+          <folding>
+            <element signature="e#747#748#0" expanded="true" />
+            <element signature="e#783#784#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/gorczynskimike/caesarcipher/CaesarCipherTestSuite.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="485">
+          <caret line="60" column="42" selection-start-line="60" selection-start-column="42" selection-end-line="60" selection-end-column="42" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
