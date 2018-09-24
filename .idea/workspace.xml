@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="110e63f8-5023-46c7-bebd-ee3fd765390e" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/gorczynskimike/strings/stringlength/StringLengthSolution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/gorczynskimike/strings/stringmatching/StringMatchingSolution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/gorczynskimike/strings/stringmatching/StringMatchingTestSuite.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -16,32 +17,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="ZeroToPowerZeroSolution.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/gorczynskimike/zerotopowerzero/ZeroToPowerZeroSolution.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="5" column="39" selection-start-line="5" selection-start-column="39" selection-end-line="5" selection-end-column="39" />
-              <folding>
-                <element signature="e#128#129#0" expanded="true" />
-                <element signature="e#164#165#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="APlusB.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/gorczynskimike/basics/aplusb/APlusB.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="126">
-              <caret line="6" column="59" selection-start-line="6" selection-start-column="59" selection-end-line="6" selection-end-column="59" />
-              <folding>
-                <element signature="e#109#110#0" expanded="true" />
-                <element signature="e#133#134#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="CaesarCipherSolution.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/gorczynskimike/cryptography/caesarcipher/CaesarCipherSolution.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -96,11 +71,41 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="StringLengthSolution.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="StringLengthSolution.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/gorczynskimike/strings/stringlength/StringLengthSolution.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="84">
               <caret line="4" column="45" selection-start-line="4" selection-start-column="45" selection-end-line="4" selection-end-column="45" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="StringMatchingSolution.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/gorczynskimike/strings/stringmatching/StringMatchingSolution.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="609">
+              <caret line="29" column="25" selection-start-line="29" selection-start-column="25" selection-end-line="29" selection-end-column="25" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#166#167#0" expanded="true" />
+                <element signature="e#192#193#0" expanded="true" />
+                <element signature="e#287#288#0" expanded="true" />
+                <element signature="e#324#325#0" expanded="true" />
+                <element signature="e#406#407#0" expanded="true" />
+                <element signature="e#432#433#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="StringMatchingTestSuite.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/gorczynskimike/strings/stringmatching/StringMatchingTestSuite.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="464">
+              <caret line="47" column="36" lean-forward="true" selection-start-line="47" selection-start-column="36" selection-end-line="47" selection-end-column="36" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -195,6 +200,8 @@
         <option value="$PROJECT_DIR$/src/test/java/com/gorczynskimike/cryptography/rot13/Rot13TestSuite.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/gorczynskimike/strings/stringprepend/StringPrependSolution.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/gorczynskimike/strings/stringlength/StringLengthSolution.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/gorczynskimike/strings/stringmatching/StringMatchingSolution.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/gorczynskimike/strings/stringmatching/StringMatchingTestSuite.java" />
       </list>
     </option>
   </component>
@@ -272,7 +279,7 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="gorczynskimike" type="462c0819:PsiDirectoryNode" />
               <item name="strings" type="462c0819:PsiDirectoryNode" />
-              <item name="stringlength" type="462c0819:PsiDirectoryNode" />
+              <item name="stringmatching" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="RosettaCodeExercises" type="b2602c69:ProjectViewProjectNode" />
@@ -302,7 +309,7 @@
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="gorczynskimike" type="462c0819:PsiDirectoryNode" />
-              <item name="cryptography" type="462c0819:PsiDirectoryNode" />
+              <item name="strings" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="RosettaCodeExercises" type="b2602c69:ProjectViewProjectNode" />
@@ -311,18 +318,8 @@
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="gorczynskimike" type="462c0819:PsiDirectoryNode" />
-              <item name="cryptography" type="462c0819:PsiDirectoryNode" />
-              <item name="caesarcipher" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="RosettaCodeExercises" type="b2602c69:ProjectViewProjectNode" />
-              <item name="RosettaCodeExercises" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="gorczynskimike" type="462c0819:PsiDirectoryNode" />
-              <item name="cryptography" type="462c0819:PsiDirectoryNode" />
-              <item name="rot13" type="462c0819:PsiDirectoryNode" />
+              <item name="strings" type="462c0819:PsiDirectoryNode" />
+              <item name="stringmatching" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -354,39 +351,19 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.StringLengthSolution">
-    <configuration name="StringLengthSolution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.gorczynskimike.strings.stringlength.StringLengthSolution" />
+  <component name="RunManager" selected="JUnit.StringMatchingTestSuite">
+    <configuration name="StringMatchingTestSuite" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="RosettaCodeExercises" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.gorczynskimike.strings.stringlength.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="StringPrependSolution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.gorczynskimike.strings.stringprepend.StringPrependSolution" />
-      <module name="RosettaCodeExercises" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.gorczynskimike.strings.stringprepend.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="CaesarCipherTestSuite" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="RosettaCodeExercises" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.gorczynskimike.cryptography.caesarcipher.*" />
+          <option name="PATTERN" value="com.gorczynskimike.strings.stringmatching.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="com.gorczynskimike.cryptography.caesarcipher" />
-      <option name="MAIN_CLASS_NAME" value="com.gorczynskimike.cryptography.caesarcipher.CaesarCipherTestSuite" />
+      <option name="PACKAGE_NAME" value="com.gorczynskimike.strings.stringmatching" />
+      <option name="MAIN_CLASS_NAME" value="com.gorczynskimike.strings.stringmatching.StringMatchingTestSuite" />
       <option name="METHOD_NAME" />
       <option name="TEST_OBJECT" value="class" />
       <option name="VM_PARAMETERS" />
@@ -398,19 +375,19 @@
       </option>
       <patterns />
     </configuration>
-    <configuration name="CaesarCipherTestSuite.testTextShouldNotChangeAfterEncodeAndDecode" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="StringMatchingTestSuite.testContains" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="RosettaCodeExercises" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.gorczynskimike.cryptography.caesarcipher.*" />
+          <option name="PATTERN" value="com.gorczynskimike.strings.stringmatching.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="com.gorczynskimike.cryptography.caesarcipher" />
-      <option name="MAIN_CLASS_NAME" value="com.gorczynskimike.cryptography.caesarcipher.CaesarCipherTestSuite" />
-      <option name="METHOD_NAME" value="testTextShouldNotChangeAfterEncodeAndDecode" />
+      <option name="PACKAGE_NAME" value="com.gorczynskimike.strings.stringmatching" />
+      <option name="MAIN_CLASS_NAME" value="com.gorczynskimike.strings.stringmatching.StringMatchingTestSuite" />
+      <option name="METHOD_NAME" value="testContains" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" />
       <option name="PARAMETERS" />
@@ -421,19 +398,65 @@
       </option>
       <patterns />
     </configuration>
-    <configuration name="Rot13TestSuite.testTextRotated13TwiceYieldsSameText" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="StringMatchingTestSuite.testEndsWith" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="RosettaCodeExercises" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.gorczynskimike.cryptography.rot13.*" />
+          <option name="PATTERN" value="com.gorczynskimike.strings.stringmatching.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="com.gorczynskimike.cryptography.rot13" />
-      <option name="MAIN_CLASS_NAME" value="com.gorczynskimike.cryptography.rot13.Rot13TestSuite" />
-      <option name="METHOD_NAME" value="testTextRotated13TwiceYieldsSameText" />
+      <option name="PACKAGE_NAME" value="com.gorczynskimike.strings.stringmatching" />
+      <option name="MAIN_CLASS_NAME" value="com.gorczynskimike.strings.stringmatching.StringMatchingTestSuite" />
+      <option name="METHOD_NAME" value="testEndsWith" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="StringMatchingTestSuite.testFindingMatchingLocations" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="RosettaCodeExercises" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.gorczynskimike.strings.stringmatching.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.gorczynskimike.strings.stringmatching" />
+      <option name="MAIN_CLASS_NAME" value="com.gorczynskimike.strings.stringmatching.StringMatchingTestSuite" />
+      <option name="METHOD_NAME" value="testFindingMatchingLocations" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="StringMatchingTestSuite.testStartsWith" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="RosettaCodeExercises" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.gorczynskimike.strings.stringmatching.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.gorczynskimike.strings.stringmatching" />
+      <option name="MAIN_CLASS_NAME" value="com.gorczynskimike.strings.stringmatching.StringMatchingTestSuite" />
+      <option name="METHOD_NAME" value="testStartsWith" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" />
       <option name="PARAMETERS" />
@@ -460,19 +483,19 @@
       <method />
     </configuration>
     <list>
-      <item itemvalue="JUnit.CaesarCipherTestSuite.testTextShouldNotChangeAfterEncodeAndDecode" />
-      <item itemvalue="JUnit.CaesarCipherTestSuite" />
-      <item itemvalue="JUnit.Rot13TestSuite.testTextRotated13TwiceYieldsSameText" />
-      <item itemvalue="Application.StringPrependSolution" />
-      <item itemvalue="Application.StringLengthSolution" />
+      <item itemvalue="JUnit.StringMatchingTestSuite.testFindingMatchingLocations" />
+      <item itemvalue="JUnit.StringMatchingTestSuite.testStartsWith" />
+      <item itemvalue="JUnit.StringMatchingTestSuite.testEndsWith" />
+      <item itemvalue="JUnit.StringMatchingTestSuite.testContains" />
+      <item itemvalue="JUnit.StringMatchingTestSuite" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.StringLengthSolution" />
-        <item itemvalue="Application.StringPrependSolution" />
-        <item itemvalue="JUnit.Rot13TestSuite.testTextRotated13TwiceYieldsSameText" />
-        <item itemvalue="JUnit.CaesarCipherTestSuite" />
-        <item itemvalue="JUnit.CaesarCipherTestSuite.testTextShouldNotChangeAfterEncodeAndDecode" />
+        <item itemvalue="JUnit.StringMatchingTestSuite" />
+        <item itemvalue="JUnit.StringMatchingTestSuite.testContains" />
+        <item itemvalue="JUnit.StringMatchingTestSuite.testEndsWith" />
+        <item itemvalue="JUnit.StringMatchingTestSuite.testStartsWith" />
+        <item itemvalue="JUnit.StringMatchingTestSuite.testFindingMatchingLocations" />
       </list>
     </recent_temporary>
   </component>
@@ -487,26 +510,11 @@
       <option name="presentableId" value="Default" />
       <updated>1537620608564</updated>
       <workItem from="1537620610803" duration="18615000" />
-      <workItem from="1537712658161" duration="9577000" />
+      <workItem from="1537712658161" duration="10813000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="CaesarCipherTestSuite_testDecodeFunction - 2018.09.23 at 17h 14m 42s.xml">
-      <configuration name="CaesarCipherTestSuite.testDecodeFunction" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="CaesarCipherTestSuite_testDecodeFunction - 2018.09.23 at 17h 14m 50s.xml">
-      <configuration name="CaesarCipherTestSuite.testDecodeFunction" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="CaesarCipherTestSuite_testDecodeFunction - 2018.09.23 at 17h 17m 36s.xml">
-      <configuration name="CaesarCipherTestSuite.testDecodeFunction" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="CaesarCipherTestSuite_testDecodeFunction - 2018.09.23 at 17h 21m 40s.xml">
-      <configuration name="CaesarCipherTestSuite.testDecodeFunction" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="CaesarCipherTestSuite_testDecodeFunction - 2018.09.23 at 17h 21m 54s.xml">
-      <configuration name="CaesarCipherTestSuite.testDecodeFunction" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="CaesarCipherTestSuite_testDecodeFunction - 2018.09.23 at 17h 22m 05s.xml">
       <configuration name="CaesarCipherTestSuite.testDecodeFunction" configurationId="JUnit" />
     </history-entry>
@@ -522,9 +530,24 @@
     <history-entry file="Rot13TestSuite_testTextRotated13TwiceYieldsSameText - 2018.09.23 at 17h 57m 55s.xml">
       <configuration name="Rot13TestSuite.testTextRotated13TwiceYieldsSameText" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="StringMatchingTestSuite_testFindingMatchingLocations - 2018.09.24 at 22h 01m 16s.xml">
+      <configuration name="StringMatchingTestSuite.testFindingMatchingLocations" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="StringMatchingTestSuite_testFindingMatchingLocations - 2018.09.24 at 22h 02m 01s.xml">
+      <configuration name="StringMatchingTestSuite.testFindingMatchingLocations" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="StringMatchingTestSuite_testFindingMatchingLocations - 2018.09.24 at 22h 02m 31s.xml">
+      <configuration name="StringMatchingTestSuite.testFindingMatchingLocations" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="StringMatchingTestSuite_testStartsWith - 2018.09.24 at 22h 17m 18s.xml">
+      <configuration name="StringMatchingTestSuite.testStartsWith" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="StringMatchingTestSuite_testEndsWith - 2018.09.24 at 22h 17m 55s.xml">
+      <configuration name="StringMatchingTestSuite.testEndsWith" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="28192000" />
+    <option name="totallyTimeSpent" value="29428000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="99" y="-9" width="1830" height="1098" extended-state="6" />
@@ -572,13 +595,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/gorczynskimike/strings/stringinterpolation/StringInterpolationSolution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="42">
-          <caret line="2" column="42" selection-start-line="2" selection-start-column="42" selection-end-line="2" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/gorczynskimike/arrays/arraysumandproduct/SumAndProductOfArraySolution.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="42">
@@ -969,6 +985,32 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="84">
           <caret line="4" column="45" selection-start-line="4" selection-start-column="45" selection-end-line="4" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/gorczynskimike/strings/stringmatching/StringMatchingSolution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="609">
+          <caret line="29" column="25" selection-start-line="29" selection-start-column="25" selection-end-line="29" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#166#167#0" expanded="true" />
+            <element signature="e#192#193#0" expanded="true" />
+            <element signature="e#287#288#0" expanded="true" />
+            <element signature="e#324#325#0" expanded="true" />
+            <element signature="e#406#407#0" expanded="true" />
+            <element signature="e#432#433#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/gorczynskimike/strings/stringmatching/StringMatchingTestSuite.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="464">
+          <caret line="47" column="36" lean-forward="true" selection-start-line="47" selection-start-column="36" selection-end-line="47" selection-end-column="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
