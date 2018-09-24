@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="110e63f8-5023-46c7-bebd-ee3fd765390e" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/gorczynskimike/strings/stringprepend/StringPrependSolution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/gorczynskimike/strings/stringlength/StringLengthSolution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -16,18 +16,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="SystemTimeSolution.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/gorczynskimike/systemtime/SystemTimeSolution.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="231">
-              <caret line="11" column="57" selection-start-line="11" selection-start-column="57" selection-end-line="11" selection-end-column="57" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="ZeroToPowerZeroSolution.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/gorczynskimike/zerotopowerzero/ZeroToPowerZeroSolution.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -94,16 +82,25 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="StringPrependSolution.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="StringPrependSolution.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/gorczynskimike/strings/stringprepend/StringPrependSolution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
+            <state relative-caret-position="275">
               <caret line="30" column="29" selection-start-line="30" selection-start-column="29" selection-end-line="30" selection-end-column="29" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#147#148#0" expanded="true" />
                 <element signature="e#182#183#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="StringLengthSolution.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/gorczynskimike/strings/stringlength/StringLengthSolution.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="84">
+              <caret line="4" column="45" selection-start-line="4" selection-start-column="45" selection-end-line="4" selection-end-column="45" />
             </state>
           </provider>
         </entry>
@@ -197,6 +194,7 @@
         <option value="$PROJECT_DIR$/src/main/java/com/gorczynskimike/cryptography/rot13/Rot13Solution.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/gorczynskimike/cryptography/rot13/Rot13TestSuite.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/gorczynskimike/strings/stringprepend/StringPrependSolution.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/gorczynskimike/strings/stringlength/StringLengthSolution.java" />
       </list>
     </option>
   </component>
@@ -274,7 +272,7 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="gorczynskimike" type="462c0819:PsiDirectoryNode" />
               <item name="strings" type="462c0819:PsiDirectoryNode" />
-              <item name="stringprepend" type="462c0819:PsiDirectoryNode" />
+              <item name="stringlength" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="RosettaCodeExercises" type="b2602c69:ProjectViewProjectNode" />
@@ -356,7 +354,17 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.StringPrependSolution">
+  <component name="RunManager" selected="Application.StringLengthSolution">
+    <configuration name="StringLengthSolution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.gorczynskimike.strings.stringlength.StringLengthSolution" />
+      <module name="RosettaCodeExercises" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.gorczynskimike.strings.stringlength.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
     <configuration name="StringPrependSolution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.gorczynskimike.strings.stringprepend.StringPrependSolution" />
       <module name="RosettaCodeExercises" />
@@ -381,29 +389,6 @@
       <option name="MAIN_CLASS_NAME" value="com.gorczynskimike.cryptography.caesarcipher.CaesarCipherTestSuite" />
       <option name="METHOD_NAME" />
       <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
-    </configuration>
-    <configuration name="CaesarCipherTestSuite.testDecodeFunction" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="RosettaCodeExercises" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.gorczynskimike.cryptography.caesarcipher.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="com.gorczynskimike.cryptography.caesarcipher" />
-      <option name="MAIN_CLASS_NAME" value="com.gorczynskimike.cryptography.caesarcipher.CaesarCipherTestSuite" />
-      <option name="METHOD_NAME" value="testDecodeFunction" />
-      <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" />
       <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" />
@@ -475,19 +460,19 @@
       <method />
     </configuration>
     <list>
-      <item itemvalue="JUnit.CaesarCipherTestSuite.testDecodeFunction" />
       <item itemvalue="JUnit.CaesarCipherTestSuite.testTextShouldNotChangeAfterEncodeAndDecode" />
       <item itemvalue="JUnit.CaesarCipherTestSuite" />
       <item itemvalue="JUnit.Rot13TestSuite.testTextRotated13TwiceYieldsSameText" />
       <item itemvalue="Application.StringPrependSolution" />
+      <item itemvalue="Application.StringLengthSolution" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.StringLengthSolution" />
         <item itemvalue="Application.StringPrependSolution" />
         <item itemvalue="JUnit.Rot13TestSuite.testTextRotated13TwiceYieldsSameText" />
         <item itemvalue="JUnit.CaesarCipherTestSuite" />
         <item itemvalue="JUnit.CaesarCipherTestSuite.testTextShouldNotChangeAfterEncodeAndDecode" />
-        <item itemvalue="JUnit.CaesarCipherTestSuite.testDecodeFunction" />
       </list>
     </recent_temporary>
   </component>
@@ -502,7 +487,7 @@
       <option name="presentableId" value="Default" />
       <updated>1537620608564</updated>
       <workItem from="1537620610803" duration="18615000" />
-      <workItem from="1537712658161" duration="6918000" />
+      <workItem from="1537712658161" duration="9577000" />
     </task>
     <servers />
   </component>
@@ -539,7 +524,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="25533000" />
+    <option name="totallyTimeSpent" value="28192000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="99" y="-9" width="1830" height="1098" extended-state="6" />
@@ -970,13 +955,20 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/gorczynskimike/strings/stringprepend/StringPrependSolution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
+        <state relative-caret-position="275">
           <caret line="30" column="29" selection-start-line="30" selection-start-column="29" selection-end-line="30" selection-end-column="29" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#147#148#0" expanded="true" />
             <element signature="e#182#183#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/gorczynskimike/strings/stringlength/StringLengthSolution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="4" column="45" selection-start-line="4" selection-start-column="45" selection-end-line="4" selection-end-column="45" />
         </state>
       </provider>
     </entry>
